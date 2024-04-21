@@ -1,0 +1,426 @@
+DrugBank ID,Name,Drug Groups,SMILES,Formula,Doping
+DB00014,Goserelin,approved,CC(C)C[C@H](NC(=O)[C@@H](COC(C)(C)C)NC(=O)[C@H](CC1=CC=C(O)C=C1)NC(=O)[C@H](CO)NC(=O)[C@H](CC1=CNC2=CC=CC=C12)NC(=O)[C@H](CC1=CN=CN1)NC(=O)[C@@H]1CCC(=O)N1)C(=O)N[C@@H](CCCN=C(N)N)C(=O)N1CCC[C@H]1C(=O)NNC(N)=O,C59H84N18O14,1
+DB00035,Desmopressin,approved,NC(=O)CC[C@@H]1NC(=O)[C@H](CC2=CC=CC=C2)NC(=O)[C@H](CC2=CC=C(O)C=C2)NC(=O)CCSSC[C@H](NC(=O)[C@H](CC(N)=O)NC1=O)C(=O)N1CCC[C@H]1C(=O)N[C@H](CCCNC(N)=N)C(=O)NCC(N)=O,C46H64N14O12S2,1
+DB11323,Glycol salicylate,approved,OCCOC(=O)C1=CC=CC=C1O,C9H10O4,1
+DB07447,5beta-dihydrotestosterone,experimental,[H][C@]1(O)CC[C@@]2([H])[C@]3([H])CC[C@]4([H])CC(=O)CC[C@]4(C)[C@@]3([H])CC[C@]12C,C19H30O2,1
+DB13758,Meclofenoxate,experimental,CN(C)CCOC(=O)COC1=CC=C(Cl)C=C1,C12H16ClNO3,1
+DB07467,(S)-Indapamide,experimental,C[C@H]1CC2=C(C=CC=C2)N1NC(=O)C1=CC=C(Cl)C(=C1)S(N)(=O)=O,C16H16ClN3O3S,1
+DB02327,Triethylene glycol,experimental,OCCOCCOCCO,C6H14O4,1
+DB17692,Vamifeport,investigational,FC1=CC=CN=C1CNC(=O)C1=COC(CCNCCC2=NC3=CC=CC=C3N2)=N1,C21H21FN6O2,1
+DB13802,Epomediol,experimental,CC1(C)O[C@@]2(C)[C@@H](O)C[C@@H]1C[C@H]2O,C10H18O3,1
+DB13805,Reposal,experimental,CCC1(C(=O)NC(=O)NC1=O)C1=CC2CCC(C2)C1,C14H18N2O3,1
+DB00180,Flunisolide,approved; investigational,[H][C@@]12C[C@@]3([H])[C@]4([H])C[C@H](F)C5=CC(=O)C=C[C@]5(C)[C@@]4([H])[C@@H](O)C[C@]3(C)[C@@]1(OC(C)(C)O2)C(=O)CO,C24H31FO6,1
+DB00187,Esmolol,approved; withdrawn,COC(=O)CCC1=CC=C(OCC(O)CNC(C)C)C=C1,C16H25NO4,1
+DB13827,Indanazoline,experimental,C1CC2=C(C1)C(NC1=NCCN1)=CC=C2,C12H15N3,1
+DB17818,Dextran 1,investigational,,,1
+DB00191,Phentermine,approved; illicit,CC(C)(N)CC1=CC=CC=C1,C10H15N,1
+DB00193,Tramadol,approved; investigational,COC1=CC=CC(=C1)C1(O)CCCCC1CN(C)C,C16H25NO2,1
+DB11429,Mibolerone,vet_approved,[H][C@@]12CC[C@](C)(O)[C@@]1(C)CC[C@]1([H])[C@@]3([H])CCC(=O)C=C3C[C@@H](C)[C@@]21[H],C20H30O2,1
+DB00195,Betaxolol,approved; investigational,CC(C)NCC(O)COC1=CC=C(CCOCC2CC2)C=C1,C18H29NO3,1
+DB17882,Epitalon,investigational,C[C@H](N)C(=O)N[C@@H](CCC(O)=O)C(=O)N[C@@H](CC(O)=O)C(=O)NCC(O)=O,C14H22N4O9,1
+DB13852,Mefenorex,experimental,CC(CC1=CC=CC=C1)NCCCCl,C12H18ClN,1
+DB00214,Torasemide,approved,CC(C)NC(=O)NS(=O)(=O)C1=C(NC2=CC=CC(C)=C2)C=CN=C1,C16H20N4O3S,1
+DB02404,1-Deoxy-1-Thio-Heptaethylene Glycol,experimental,OCCOCCOCCOCCOCCOCCOCCS,C14H30O7S,1
+DB11466,Tepoxalin,vet_approved,COC1=CC=C(C=C1)N1N=C(CCC(=O)N(C)O)C=C1C1=CC=C(Cl)C=C1,C20H20ClN3O3,1
+DB13867,Fluticasone,approved; experimental,[H][C@@]12C[C@@H](C)[C@](O)(C(=O)SCF)[C@@]1(C)C[C@H](O)[C@@]1(F)[C@@]2([H])C[C@H](F)C2=CC(=O)C=C[C@]12C,C22H27F3O4S,1
+DB11478,Zeranol,experimental; vet_approved,C[C@H]1CCC[C@H](O)CCCCCC2=CC(O)=CC(O)=C2C(=O)O1,C18H26O5,1
+DB11479,Zilpaterol,vet_approved,CC(C)N[C@@H]1CCN2C(=O)NC3=CC=CC([C@H]1O)=C23,C14H19N3O2,1
+DB11487,Dexamethasone isonicotinate,vet_approved,[H][C@@]12C[C@@H](C)[C@](O)(C(=O)COC(=O)C3=CC=NC=C3)[C@@]1(C)C[C@H](O)[C@@]1(F)[C@@]2([H])CCC2=CC(=O)C=C[C@]12C,C28H32FNO6,1
+DB13917,Deoxyepinephrine,experimental,CNCCC1=CC(O)=C(O)C=C1,C9H13NO2,1
+DB13929,Relcovaptan,investigational,COC1=CC=C(C=C1OC)S(=O)(=O)N1[C@@H](C(=O)N2CCC[C@H]2C(N)=O)[C@](O)(C2=CC(Cl)=CC=C12)C1=CC=CC=C1Cl,C28H27Cl2N3O7S,1
+DB11510,Deslorelin,investigational; vet_approved,[H][C@]1(CCC(=O)N1)C(=O)N[C@@H](CC1=CNC=N1)C(=O)N[C@@H](CC1=CNC2=C1C=CC=C2)C(=O)N[C@@H](CO)C(=O)N[C@@H](CC1=CC=C(O)C=C1)C(=O)N[C@H](CC1=CNC2=CC=CC=C12)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCCNC(N)=N)C(=O)N1CCC[C@H]1C(=O)NCC,C64H83N17O12,1
+DB00264,Metoprolol,approved; investigational,COCCC1=CC=C(OCC(O)CNC(C)C)C=C1,C15H25NO3,1
+DB13943,Testosterone cypionate,approved,[H][C@@]12CC[C@H](OC(=O)CCC3CCCC3)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CCC2=CC(=O)CC[C@]12C,C27H40O3,1
+DB13944,Testosterone enanthate,approved,[H][C@@]12CC[C@H](OC(=O)CCCCCC)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CCC2=CC(=O)CC[C@]12C,C26H40O3,1
+DB13946,Testosterone undecanoate,approved; investigational,CCCCCCCCCCC(=O)O[C@H]1CC[C@H]2[C@@H]3CCC4=CC(=O)CC[C@]4(C)[C@H]3CC[C@]12C,C30H48O3,1
+DB13947,Testosterone enantate benzilic acid hydrazone,approved; experimental,[H]N(N=C1CC[C@@]2(C)C(CC[C@@]3([H])[C@]4([H])CC[C@H](OC(=O)CCCCCC)[C@@]4(C)CC[C@]23[H])=C1)C(=O)C(O)(C1=CC=CC=C1)C1=CC=CC=C1,C40H52N2O4,1
+DB11541,Ractopamine,vet_approved,CC(CCC1=CC=C(O)C=C1)NCC(O)C1=CC=C(O)C=C1,C18H23NO3,1
+DB13958,Trestolone acetate,experimental,[H][C@@]12CC[C@H](OC(C)=O)[C@@]1(C)CC[C@]1([H])[C@@]3([H])CCC(=O)C=C3C[C@@H](C)[C@@]21[H],C21H30O3,1
+DB11551,Trenbolone,vet_approved,[H][C@@]12CC[C@H](O)[C@@]1(C)C=CC1=C3CCC(=O)C=C3CC[C@@]21[H],C18H22O2,1
+DB18059,MBS-2320,investigational,C[C@]1(O)CC[C@@H](CC1)NS(=O)(=O)C1=CC=C(C=C1)C1=CC=C(Cl)C=C1C#N,C20H21ClN2O3S,1
+DB00295,Morphine,approved; investigational,[H][C@@]12OC3=C(O)C=CC4=C3[C@@]11CCN(C)[C@]([H])(C4)[C@]1([H])C=C[C@@H]2O,C17H19NO3,1
+DB11609,Normethadone,approved; illicit,CCC(=O)C(CCN(C)C)(C1=CC=CC=C1)C1=CC=CC=C1,C20H25NO,1
+DB11610,Oxilofrine,approved,[H][C@@](C)(NC)[C@]([H])(O)C1=CC=C(O)C=C1,C10H15NO2,1
+DB00327,Hydromorphone,approved; illicit,[H][C@@]12OC3=C(O)C=CC4=C3[C@@]11CCN(C)[C@]([H])(C4)[C@]1([H])CCC2=O,C17H19NO3,1
+DB11619,Gestrinone,approved,[H][C@@]12CC[C@@](O)(C#C)[C@@]1(CC)C=CC1=C3CCC(=O)C=C3CC[C@@]21[H],C21H24O2,1
+DB00333,Methadone,approved,CCC(=O)C(CC(C)N(C)C)(C1=CC=CC=C1)C1=CC=CC=C1,C21H27NO,1
+DB00335,Atenolol,approved,CC(C)NCC(O)COC1=CC=C(CC(N)=O)C=C1,C14H22N2O3,1
+DB04733,"1,6-DI-O-PHOSPHONO-D-MANNITOL",experimental,O[C@H](COP(O)(O)=O)[C@@H](O)[C@H](O)[C@H](O)COP(O)(O)=O,C6H16O12P2,1
+DB00357,Aminoglutethimide,approved; investigational,CCC1(CCC(=O)NC1=O)C1=CC=C(N)C=C1,C13H16N2O2,1
+DB00368,Norepinephrine,approved,NC[C@H](O)C1=CC(O)=C(O)C=C1,C8H11NO3,1
+DB00373,Timolol,approved,[H][C@](O)(CNC(C)(C)C)COC1=NSN=C1N1CCOCC1,C13H24N4O3S,1
+DB11682,Daprodustat,approved; investigational,OC(=O)CNC(=O)C1C(=O)N(C2CCCCC2)C(=O)N(C2CCCCC2)C1=O,C19H27N3O6,1
+DB18214,Ibutamoren,investigational,CC(C)(N)C(=O)N[C@H](COCC1=CC=CC=C1)C(=O)N1CCC2(CN(C3=CC=CC=C23)S(C)(=O)=O)CC1,C27H36N4O5S,1
+DB00384,Triamterene,approved,NC1=NC(N)=C2N=C(C(N)=NC2=N1)C1=CC=CC=C1,C12H11N7,1
+DB14093,"(1,2,6,7-3H)Testosterone",experimental,[H][C@@]12CC[C@H](O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])C([3H])C([3H])C2=CC(=O)C([3H])C([3H])[C@]12C,C19H28O2,1
+DB18246,Rencofilstat,investigational,[H][C@@]1([C@H](O)[C@H](C)CCCCCCNC(C)=O)N(C)C(=O)[C@H](C(C)C)N(C)C(=O)[C@H](CC(C)C)N(C)C(=O)[C@H](CC(C)C)N(C)C(=O)[C@@H](C)NC(=O)[C@H](C)NC(=O)[C@H](CC(C)C)N(C)C(=O)[C@@H](NC(=O)[C@H](CC(C)C)N(C)C(=O)[C@@H](C)N(C)C(=O)[C@H](CC)NC1=O)C(C)C,C67H122N12O13,1
+DB14110,Butylene glycol,approved; experimental,CC(O)CCO,C4H10O2,1
+DB00421,Spironolactone,approved,[H][C@@]12CC[C@@]3(CCC(=O)O3)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])[C@@]([H])(CC2=CC(=O)CC[C@]12C)SC(C)=O,C24H32O4S,1
+DB14136,(-)-menthol 1-propylene glycol carbonate,experimental,[H]C(C)(O)COC(=O)O[C@]1([H])C[C@]([H])(C)CC[C@@]1([H])C(C)C,C14H26O4,1
+DB00422,Methylphenidate,approved; investigational,COC(=O)C(C1CCCCN1)C1=CC=CC=C1,C14H19NO2,1
+DB14140,Dipropylene glycol,experimental,,,1
+DB07768,Epitestosterone,experimental,[H][C@@]1(O)CC[C@@]2([H])[C@]3([H])CCC4=CC(=O)CC[C@]4(C)[C@@]3([H])CC[C@]12C,C19H28O2,1
+DB04825,Prenylamine,approved; withdrawn,CC(CC1=CC=CC=C1)NCCC(C1=CC=CC=C1)C1=CC=CC=C1,C24H27N,1
+DB00436,Bendroflumethiazide,approved,NS(=O)(=O)C1=CC2=C(NC(CC3=CC=CC=C3)NS2(=O)=O)C=C1C(F)(F)F,C15H14F3N3O4S2,1
+DB18409,Fobrepodacin,investigational,[H][C@@]1(CCCO1)C1=C2NC(NC(=O)NCC)=NC2=CC(=C1F)C1=CN=C(N=C1)C(C)(C)OP(O)(O)=O,C21H26FN6O6P,1
+DB02645,"3,4-Epoxybutyl-Alpha-D-Glucopyranoside",experimental,[H][C@]1(CCO[C@@]2([H])O[C@]([H])(CO)[C@@]([H])(O)[C@]([H])(O)[C@@]2([H])O)CO1,C10H18O7,1
+DB00443,Betamethasone,approved; vet_approved,[H][C@@]12C[C@H](C)[C@](O)(C(=O)CO)[C@@]1(C)C[C@H](O)[C@@]1(F)[C@@]2([H])CCC2=CC(=O)C=C[C@]12C,C22H29FO5,1
+DB04846,Celiprolol,approved; investigational,CCN(CC)C(=O)NC1=CC=C(OCC(O)CNC(C)(C)C)C(=C1)C(C)=O,C20H33N3O4,1
+DB04847,Roxadustat,approved; investigational,CC1=NC(C(=O)NCC(O)=O)=C(O)C2=C1C=C(OC1=CC=CC=C1)C=C2,C19H16N2O5,1
+DB00460,Verteporfin,approved; investigational,COC(=O)CCC1=C2NC(\C=C3/N=C(/C=C4\N\C(=C/C5=N/C(=C\2)/C(CCC(O)=O)=C5C)C(C=C)=C4C)C2=CC=C([C@@H](C(=O)OC)[C@@]32C)C(=O)OC)=C1C,C41H42N4O8,1
+DB04861,Nebivolol,approved; investigational,OC(CNCC(O)C1CCC2=C(O1)C=CC(F)=C2)C1CCC2=C(O1)C=CC(F)=C2,C22H25F2NO4,1
+DB04862,Merimepodib,investigational,COC1=C(C=CC(NC(=O)NC2=CC=CC(CNC(=O)O[C@H]3CCOC3)=C2)=C1)C1=CN=CO1,C23H24N4O6,1
+DB00475,Chlordiazepoxide,approved; illicit; investigational,CNC1=NC2=C(C=C(Cl)C=C2)C(C2=CC=CC=C2)=[N+]([O-])C1,C16H14ClN3O,1
+DB14205,Cobaltous cation,experimental,[Co++],Co,1
+DB14206,Cobalt chloride,approved; experimental,[Cl-].[Cl-].[Co++],Cl2Co,1
+DB00481,Raloxifene,approved; investigational,OC1=CC=C(C=C1)C1=C(C(=O)C2=CC=C(OCCN3CCCCC3)C=C2)C2=C(S1)C=C(O)C=C2,C28H27NO4S,1
+DB00489,Sotalol,approved,CC(C)NCC(O)C1=CC=C(NS(C)(=O)=O)C=C1,C12H20N2O3S,1
+DB00497,Oxycodone,approved; illicit; investigational,COC1=C2O[C@H]3C(=O)CC[C@@]4(O)[C@H]5CC(C=C1)=C2[C@@]34CCN5C,C18H21NO4,1
+DB04890,Bepotastine,approved,OC(=O)CCCN1CCC(CC1)OC(C1=CC=C(Cl)C=C1)C1=CC=CC=N1,C21H25ClN2O3,1
+DB00502,Haloperidol,approved,OC1(CCN(CCCC(=O)C2=CC=C(F)C=C2)CC1)C1=CC=C(Cl)C=C1,C21H23ClFNO2,1
+DB11837,Osilodrostat,approved; investigational,FC1=C(C=CC(=C1)C#N)[C@H]1CCC2=CN=CN12,C13H10FN3,1
+DB02726,2-Phosphoglycolic Acid,experimental,OC(=O)COP(O)(O)=O,C2H5O6P,1
+DB00521,Carteolol,approved,CC(C)(C)NCC(O)COC1=CC=CC2=C1CCC(=O)N2,C16H24N2O3,1
+DB00524,Metolazone,approved,CC1NC2=CC(Cl)=C(C=C2C(=O)N1C1=CC=CC=C1C)S(N)(=O)=O,C16H16ClN3O3S,1
+DB00526,Oxaliplatin,approved; investigational,[H][N]1([H])[C@@H]2CCCC[C@H]2[N]([H])([H])[Pt]11OC(=O)C(=O)O1,C8H14N2O4Pt,1
+DB04938,Ospemifene,approved; investigational,OCCOC1=CC=C(C=C1)C(=C(\CCCl)C1=CC=CC=C1)\C1=CC=CC=C1,C24H23ClO2,1
+DB14512,Mometasone furoate,approved; investigational; vet_approved,[H][C@@]12C[C@@H](C)[C@](OC(=O)C3=CC=CO3)(C(=O)CCl)[C@@]1(C)C[C@H](O)[C@@]1(Cl)[C@@]2([H])CCC2=CC(=O)C=C[C@]12C,C27H30Cl2O6,1
+DB14514,Magnesium levulinate,nutraceutical,[Mg++].CC(=O)CCC([O-])=O.CC(=O)CCC([O-])=O,C10H14MgO6,1
+DB00539,Toremifene,approved; investigational,CN(C)CCOC1=CC=C(C=C1)C(=C(\CCCl)C1=CC=CC=C1)\C1=CC=CC=C1,C26H28ClNO,1
+DB04980,Lemuteporfin,investigational,COC(=O)C1C(=CC=C2\C3=C\C4=N\C(=C/C5=C(C)C(CCC(=O)OCCO)=C(N5)\C=C5/N=C(/C=C(\N3)C12C)C(C)=C5CCC(=O)OCCO)\C(C=C)=C4C)C(=O)OC,C44H48N4O10,1
+DB14538,Hydrocortisone aceponate,experimental; vet_approved,[H][C@@]12CC[C@](OC(=O)CC)(C(=O)COC(C)=O)[C@@]1(C)C[C@H](O)[C@@]1([H])[C@@]2([H])CCC2=CC(=O)CC[C@]12C,C26H36O7,1
+DB14539,Hydrocortisone acetate,approved; vet_approved,[H][C@@]12CC[C@](O)(C(=O)COC(C)=O)[C@@]1(C)C[C@H](O)[C@@]1([H])[C@@]2([H])CCC2=CC(=O)CC[C@]12C,C23H32O6,1
+DB14540,Hydrocortisone butyrate,approved; vet_approved,[H][C@@]12CC[C@](OC(=O)CCC)(C(=O)CO)[C@@]1(C)C[C@H](O)[C@@]1([H])[C@@]2([H])CCC2=CC(=O)CC[C@]12C,C25H36O6,1
+DB14541,Hydrocortisone cypionate,approved; investigational; vet_approved,[H][C@@]12CC[C@](O)(C(=O)COC(=O)CCC3CCCC3)[C@@]1(C)C[C@H](O)[C@@]1([H])[C@@]2([H])CCC2=CC(=O)CC[C@]12C,C29H42O6,1
+DB00564,Carbamazepine,approved; investigational,NC(=O)N1C2=CC=CC=C2C=CC2=CC=CC=C12,C15H12N2O,1
+DB14542,Hydrocortisone phosphate,approved; vet_approved,[H][C@@]12CC[C@](O)(C(=O)COP(O)(O)=O)[C@@]1(C)C[C@H](O)[C@@]1([H])[C@@]2([H])CCC2=CC(=O)CC[C@]12C,C21H31O8P,1
+DB14543,Hydrocortisone probutate,approved; vet_approved,[H][C@@]12CC[C@](OC(=O)CCC)(C(=O)COC(=O)CC)[C@@]1(C)C[C@H](O)[C@@]1([H])[C@@]2([H])CCC2=CC(=O)CC[C@]12C,C28H40O7,1
+DB14544,Hydrocortisone valerate,approved; vet_approved,[H][C@@]12CC[C@](OC(=O)CCCC)(C(=O)CO)[C@@]1(C)C[C@H](O)[C@@]1([H])[C@@]2([H])CCC2=CC(=O)CC[C@]12C,C26H38O6,1
+DB14545,Hydrocortisone succinate,approved,[H][C@@]12CC[C@](O)(C(=O)COC(=O)CCC(O)=O)[C@@]1(C)C[C@H](O)[C@@]1([H])[C@@]2([H])CCC2=CC(=O)CC[C@]12C,C25H34O8,1
+DB00571,Propranolol,approved; investigational,CC(C)NCC(O)COC1=CC=CC2=C1C=CC=C2,C16H21NO2,1
+DB00574,Fenfluramine,approved; illicit; investigational; withdrawn,CCNC(C)CC1=CC=CC(=C1)C(F)(F)F,C12H16F3N,1
+DB11921,Deflazacort,approved; investigational,[H][C@@]12C[C@@]3([H])[C@]4([H])CCC5=CC(=O)C=C[C@]5(C)[C@@]4([H])[C@@]([H])(O)C[C@]3(C)[C@@]1(N=C(C)O2)C(=O)COC(C)=O,C25H31NO6,1
+DB14574,Cobalt,approved; experimental; withdrawn,[Co],Co,1
+DB00588,Fluticasone propionate,approved,[H][C@@]12C[C@@H](C)[C@](OC(=O)CC)(C(=O)SCF)[C@@]1(C)C[C@H](O)[C@@]1(F)[C@@]2([H])C[C@H](F)C2=CC(=O)C=C[C@]12C,C25H31F3O5S,1
+DB05039,Indacaterol,approved,CCC1=C(CC)C=C2CC(CC2=C1)NC[C@H](O)C1=C2C=CC(=O)NC2=C(O)C=C1,C24H28N2O3,1
+DB00591,Fluocinolone acetonide,approved; investigational; vet_approved,[H][C@@]12C[C@@]3([H])[C@]4([H])C[C@H](F)C5=CC(=O)C=C[C@]5(C)[C@@]4(F)[C@@H](O)C[C@]3(C)[C@@]1(OC(C)(C)O2)C(=O)CO,C24H30F2O6,1
+DB00594,Amiloride,approved,NC(=N)NC(=O)C1=NC(Cl)=C(N)N=C1N,C6H8ClN7O,1
+DB14589,Caprylyl glycol,experimental,CCCCCCC(O)CO,C8H18O2,1
+DB00598,Labetalol,approved,CC(CCC1=CC=CC=C1)NCC(O)C1=CC(C(N)=O)=C(O)C=C1,C19H24N2O3,1
+DB14624,Nandrolone hydrogen sulfate,experimental; investigational,C[C@]12CC[C@H]3[C@@H](CCC4=CC(=O)CC[C@H]34)[C@@H]1CC[C@@H]2OS(O)(=O)=O,C18H26O5S,1
+DB14625,Meprednisone acetate,experimental,C[C@H]1C[C@H]2[C@@H]3CCC4=CC(=O)C=C[C@]4(C)[C@H]3C(=O)C[C@]2(C)[C@@]1(O)C(=O)COC(C)=O,C24H30O6,1
+DB14631,Prednisolone phosphate,approved; vet_approved,[H][C@@]12CC[C@](O)(C(=O)COP(O)(O)=O)[C@@]1(C)C[C@H](O)[C@@]1([H])[C@@]2([H])CCC2=CC(=O)C=C[C@]12C,C21H29O8P,1
+DB14632,Prednisolone tebutate,approved; vet_approved,[H][C@@]12CC[C@](O)(C(=O)COC(=O)CC(C)(C)C)[C@@]1(C)C[C@H](O)[C@@]1([H])[C@@]2([H])CCC2=CC(=O)C=C[C@]12C,C27H38O6,1
+DB14633,Prednisolone hemisuccinate,experimental,[H][C@@]12CC[C@](O)(C(=O)COC(=O)CCC(O)=O)[C@@]1(C)C[C@H](O)[C@@]1([H])[C@@]2([H])CCC2=CC(=O)C=C[C@]12C,C25H32O8,1
+DB00612,Bisoprolol,approved,CC(C)NCC(O)COC1=CC=C(COCCOC(C)C)C=C1,C18H31NO4,1
+DB14637,Fluprednisolone acetate,experimental,CC(=O)OCC(=O)[C@@]1(O)CC[C@H]2[C@@H]3C[C@H](F)C4=CC(=O)C=C[C@]4(C)[C@H]3[C@@H](O)C[C@]12C,C23H29FO6,1
+DB14639,Boldenone undecylenate,illicit; vet_approved,C[C@]12CC[C@H]3[C@@H](CCC4=CC(=O)C=C[C@]34C)[C@@H]1CC[C@@H]2OC(=O)CCCCCCCCC=C,C30H44O3,1
+DB00620,Triamcinolone,approved; vet_approved,[H][C@@]12C[C@@H](O)[C@](O)(C(=O)CO)[C@@]1(C)C[C@H](O)[C@@]1(F)[C@@]2([H])CCC2=CC(=O)C=C[C@]12C,C21H27FO6,1
+DB00621,Oxandrolone,approved; investigational,[H][C@@]12CC[C@](C)(O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CC[C@@]2([H])CC(=O)OC[C@]12C,C19H30O3,1
+DB14643,Methylprednisolone aceponate,approved; vet_approved,[H][C@@]12CC[C@](OC(=O)CC)(C(=O)COC(C)=O)[C@@]1(C)C[C@H](O)[C@@]1([H])[C@@]2([H])C[C@H](C)C2=CC(=O)C=C[C@]12C,C27H36O7,1
+DB00624,Testosterone,approved; investigational,[H][C@@]12CC[C@H](O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CCC2=CC(=O)CC[C@]12C,C19H28O2,1
+DB14644,Methylprednisolone hemisuccinate,approved,[H][C@@]12CC[C@](O)(C(=O)COC(=O)CCC(O)=O)[C@@]1(C)C[C@H](O)[C@@]1([H])[C@@]2([H])C[C@H](C)C2=CC(=O)C=C[C@]12C,C26H34O8,1
+DB14646,Prednisone acetate,approved; experimental; investigational,[H][C@@]12CC[C@](O)(C(=O)COC(C)=O)[C@@]1(C)CC(=O)[C@@]1([H])[C@@]2([H])CCC2=CC(=O)C=C[C@]12C,C23H28O6,1
+DB14649,Dexamethasone acetate,approved; investigational; vet_approved,[H][C@@]12C[C@@H](C)[C@](O)(C(=O)COC(C)=O)[C@@]1(C)C[C@H](O)[C@@]1(F)[C@@]2([H])CCC2=CC(=O)C=C[C@]12C,C24H31FO6,1
+DB14655,Drostanolone propionate,approved; illicit,[H][C@@]12CC[C@H](OC(=O)CC)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CC[C@@]2([H])CC(=O)[C@H](C)C[C@]12C,C23H36O3,1
+DB00635,Prednisone,approved; vet_approved,[H][C@@]12CC[C@](O)(C(=O)CO)[C@@]1(C)CC(=O)[C@@]1([H])[C@@]2([H])CCC2=CC(=O)C=C[C@]12C,C21H26O5,1
+DB05107,16-Bromoepiandrosterone,investigational,[H][C@@]12C[C@@H](Br)C(=O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CC[C@@]2([H])C[C@@H](O)CC[C@]12C,C19H29BrO2,1
+DB14660,Trenbolone acetate,vet_approved,[H][C@@]1(CC[C@@]2([H])[C@]3([H])CCC4=CC(=O)CCC4=C3C=C[C@]12C)OC(C)=O,C20H24O3,1
+DB14662,Flunisolide acetate,experimental,[H][C@@]12C[C@H]3OC(C)(C)O[C@@]3(C(=O)COC(C)=O)[C@@]1(C)C[C@H](O)[C@@]1([H])[C@@]2([H])C[C@H](F)C2=CC(=O)C=C[C@]12C,C26H33FO7,1
+DB00644,Gonadorelin,approved; investigational; vet_approved,CC(C)CC(NC(=O)CNC(=O)C(CC1=CC=C(O)C=C1)NC(=O)C(CO)NC(=O)C(CC1=CNC2=CC=CC=C12)NC(=O)C(CC1=CN=CN1)NC(=O)C1CCC(=O)N1)C(=O)NC(CCCN=C(N)N)C(=O)N1CCCC1C(=O)NCC(N)=O,C55H75N17O13,1
+DB14664,Difluocortolone pivalate,experimental,[H][C@@]12C[C@@H](C)[C@H](C(=O)COC(=O)C(C)(C)C)[C@@]1(C)C[C@H](O)[C@@]1(F)[C@@]2([H])C[C@H](F)C2=CC(=O)C=C[C@]12C,C27H36F2O5,1
+DB14669,Betamethasone phosphate,approved; vet_approved,[H][C@@]12C[C@H](C)[C@](O)(C(=O)COP(O)(O)=O)[C@@]1(C)C[C@H](O)[C@@]1(F)[C@@]2([H])CCC2=CC(=O)C=C[C@]12C,C22H30FO8P,1
+DB00652,Pentazocine,approved; vet_approved,CC1C2CC3=C(C=C(O)C=C3)C1(C)CCN2CC=C(C)C,C19H27NO,1
+DB14681,Cortisone,experimental,[H][C@@]12CC[C@](O)(C(=O)CO)[C@@]1(C)CC(=O)[C@@]1([H])[C@@]2([H])CCC2=CC(=O)CC[C@]12C,C21H28O5,1
+DB00666,Nafarelin,approved,CC(C)C[C@H](NC(=O)[C@@H](CC1=CC2=C(C=CC=C2)C=C1)NC(=O)[C@H](CC1=CC=C(O)C=C1)NC(=O)[C@H](CO)NC(=O)[C@H](CC1=CNC2=CC=CC=C12)NC(=O)[C@H](CC1=CNC=N1)NC(=O)[C@@H]1CCC(=O)N1)C(=O)N[C@@H](CCCNC(N)=N)C(=O)N1CCC[C@H]1C(=O)NCC(N)=O,C66H83N17O13,1
+DB00668,Epinephrine,approved; vet_approved,CNC[C@H](O)C1=CC(O)=C(O)C=C1,C9H13NO3,1
+DB14703,Dexamethasone metasulfobenzoate,approved; experimental,[H][C@@]12C[C@@H](C)[C@](O)(C(=O)COC(=O)C3=CC=CC(=C3)S(O)(=O)=O)[C@@]1(C)C[C@H](O)[C@@]1(F)[C@@]2([H])CCC2=CC(=O)C=C[C@]12C,C29H33FO9S,1
+DB00675,Tamoxifen,approved,CC\C(=C(/C1=CC=CC=C1)C1=CC=C(OCCN(C)C)C=C1)C1=CC=CC=C1,C26H29NO,1
+DB00687,Fludrocortisone,approved; investigational,[H][C@@]12CC[C@](O)(C(=O)CO)[C@@]1(C)C[C@H](O)[C@@]1(F)[C@@]2([H])CCC2=CC(=O)CC[C@]12C,C21H29FO5,1
+DB00695,Furosemide,approved; vet_approved,NS(=O)(=O)C1=C(Cl)C=C(NCC2=CC=CO2)C(=C1)C(O)=O,C12H11ClN2O5S,1
+DB14752,Racephedrine,approved; experimental,CN[C@H](C)[C@@H](O)C1=CC=CC=C1,C10H15NO,1
+DB14754,Solriamfetol,approved,N[C@@H](COC(N)=O)CC1=CC=CC=C1,C10H14N2O2,1
+DB02924,"(4R)-limonene 1α,2α-epoxide",experimental,CC(=C)[C@@H]1CC[C@@]2(C)O[C@H]2C1,C10H16O,1
+DB00714,Apomorphine,approved; investigational,[H][C@]12CC3=C(C(O)=C(O)C=C3)C3=CC=CC(CCN1C)=C23,C17H17NO2,1
+DB12078,Enobosarm,investigational,C[C@](O)(COC1=CC=C(C=C1)C#N)C(=O)NC1=CC=C(C#N)C(=C1)C(F)(F)F,C19H14F3N3O3,1
+DB12097,Mannitol busulfan,approved; investigational,CS(=O)(=O)OC[C@@H](O)[C@@H](O)[C@H](O)[C@H](O)COS(C)(=O)=O,C8H18O10S2,1
+DB00741,Hydrocortisone,approved; vet_approved,[H][C@@]12CC[C@](O)(C(=O)CO)[C@@]1(C)C[C@H](O)[C@@]1([H])[C@@]2([H])CCC2=CC(=O)CC[C@]12C,C21H30O5,1
+DB00742,Mannitol,approved; investigational,OC[C@@H](O)[C@@H](O)[C@H](O)[C@H](O)CO,C6H14O6,1
+DB00745,Modafinil,approved; investigational,NC(=O)CS(=O)C(C1=CC=CC=C1)C1=CC=CC=C1,C15H15NO2S,1
+DB14823,Balovaptan,investigational,CN1CC2=NN=C([C@H]3CC[C@@H](CC3)OC3=NC=CC=C3)N2C2=CC=C(Cl)C=C2C1,C22H24ClN5O,1
+DB00764,Mometasone,experimental,[H][C@@]12C[C@@H](C)[C@](O)(C(=O)CCl)[C@@]1(C)C[C@H](O)[C@@]1(Cl)[C@@]2([H])CCC2=CC(=O)C=C[C@]12C,C22H28Cl2O4,1
+DB12134,Gepotidacin,investigational,O=C1C=CC2=C3N1C[C@@H](CN1CCC(CC1)NCC1=CC4=C(OCCC4)C=N1)N3C(=O)C=N2,C24H28N6O3,1
+DB02998,Metribolone,experimental,[H][C@@]12CC[C@](C)(O)[C@@]1(C)C=CC1=C3CCC(=O)C=C3CC[C@@]21[H],C19H24O2,1
+DB03026,Phosphoglycolohydroxamic Acid,experimental,ONC(=O)COP(O)(O)=O,C2H6NO6P,1
+DB14923,Satavaptan,investigational,CCOC1=CC=C2N(C(=O)[C@@]3(CC[C@@H](CC3)OCCN3CCOCC3)C2=C1)S(=O)(=O)C1=CC=C(C=C1OC)C(=O)NC(C)(C)C,C33H45N3O8S,1
+DB00808,Indapamide,approved,CC1CC2=CC=CC=C2N1NC(=O)C1=CC(=C(Cl)C=C1)S(N)(=O)=O,C16H16ClN3O3S,1
+DB00813,Fentanyl,approved; illicit; investigational; vet_approved,CCC(=O)N(C1CCN(CCC2=CC=CC=C2)CC1)C1=CC=CC=C1,C22H28N2O,1
+DB05394,Corticorelin,investigational,,,1
+DB00819,Acetazolamide,approved; vet_approved,CC(=O)NC1=NN=C(S1)S(N)(=O)=O,C4H6N4O3S2,1
+DB00830,Phenmetrazine,approved; illicit,CC1NCCOC1C1=CC=CC=C1,C11H15NO,1
+DB12221,Canrenone,investigational,[H][C@@]12CC[C@@]3(CCC(=O)O3)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])C=CC2=CC(=O)CC[C@]12C,C22H28O3,1
+DB00852,Pseudoephedrine,approved,CN[C@@H](C)[C@@H](O)C1=CC=CC=C1,C10H15NO,1
+DB03085,Glycolic acid,approved; investigational,OCC(O)=O,C2H4O3,1
+DB00858,Drostanolone,illicit,[H][C@@]12CC[C@H](O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CC[C@@]2([H])CC(=O)[C@H](C)C[C@]12C,C20H32O2,1
+DB00860,Prednisolone,approved; vet_approved,[H][C@@]12CC[C@](O)(C(=O)CO)[C@@]1(C)C[C@H](O)[C@@]1([H])[C@@]2([H])CCC2=CC(=O)C=C[C@]12C,C21H28O5,1
+DB12248,Tulobuterol,investigational,CC(C)(C)NCC(O)C1=CC=CC=C1Cl,C12H18ClNO,1
+DB00866,Alprenolol,experimental; withdrawn,CC(C)NCC(O)COC1=CC=CC=C1CC=C,C15H23NO2,1
+DB12255,Vadadustat,approved; investigational,OC(=O)CNC(=O)C1=C(O)C=C(C=N1)C1=CC(Cl)=CC=C1,C14H11ClN2O4,1
+DB00871,Terbutaline,approved,CC(C)(C)NCC(O)C1=CC(O)=CC(O)=C1,C12H19NO3,1
+DB00872,Conivaptan,approved; investigational,CC1=NC2=C(CCN(C(=O)C3=CC=C(NC(=O)C4=CC=CC=C4C4=CC=CC=C4)C=C3)C3=CC=CC=C23)N1,C32H26N4O2,1
+DB12266,Epofolate,investigational,[H][C@]1(C)CCC[C@@H]2[C@H](C[C@H](OC(=O)C[C@H](O)C(C)(C)C(=O)[C@H](C)[C@H]1O)C(\C)=C\C1=CSC(C)=N1)N2CCOC(=O)OCCSSC[C@H](NC(=O)[C@H](CC(O)=O)NC(=O)[C@H](CCCNC(N)=N)NC(=O)[C@H](CC(O)=O)NC(=O)CC[C@H](NC(=O)C1=CC=C(NCC2=CN=C3N=C(N)NC(=O)C3=N2)C=C1)C(O)=O)C(O)=O,C67H92N16O22S3,1
+DB00880,Chlorothiazide,approved; vet_approved,NS(=O)(=O)C1=C(Cl)C=C2NC=NS(=O)(=O)C2=C1,C7H6ClN3O4S2,1
+DB00882,Clomifene,approved; investigational,CCN(CC)CCOC1=CC=C(C=C1)C(=C(Cl)C1=CC=CC=C1)C1=CC=CC=C1,C26H28ClNO,1
+DB00887,Bumetanide,approved,CCCCNC1=C(OC2=CC=CC=C2)C(=CC(=C1)C(O)=O)S(N)(=O)=O,C17H20N2O5S,1
+DB00893,Iron Dextran,approved; vet_approved,,,1
+DB00894,Testolactone,approved; investigational,[H][C@@]12CCC3=CC(=O)C=C[C@]3(C)[C@@]1([H])CC[C@]1(C)OC(=O)CC[C@@]21[H],C19H24O3,1
+DB00903,Etacrynic acid,approved; investigational,CCC(=C)C(=O)C1=C(Cl)C(Cl)=C(OCC(O)=O)C=C1,C13H12Cl2O4,1
+DB00907,Cocaine,approved; illicit,[H][C@]12CC[C@]([H])([C@H]([C@H](C1)OC(=O)C1=CC=CC=C1)C(=O)OC)N2C,C17H21NO4,1
+DB00921,Buprenorphine,approved; illicit; investigational; vet_approved,CO[C@]12CC[C@@]3(C[C@@H]1[C@](C)(O)C(C)(C)C)[C@H]1CC4=C5C(O[C@@H]2[C@@]35CCN1CC1CC1)=C(O)C=C4,C29H41NO4,1
+DB00938,Salmeterol,approved,OCC1=C(O)C=CC(=C1)C(O)CNCCCCCCOCCCCC1=CC=CC=C1,C25H37NO4,1
+DB15133,Tepotinib,approved; investigational,CN1CCC(COC2=CN=C(N=C2)C2=CC(CN3N=C(C=CC3=O)C3=CC(=CC=C3)C#N)=CC=C2)CC1,C29H28N6O2,1
+DB00947,Fulvestrant,approved; investigational,[H][C@@]12CC[C@H](O)[C@@]1(C)CC[C@]1([H])C3=CC=C(O)C=C3C[C@@H](CCCCCCCCCS(=O)CCCC(F)(F)C(F)(F)F)[C@@]21[H],C32H47F5O3S,1
+DB00959,Methylprednisolone,approved; vet_approved,[H][C@@]12CC[C@](O)(C(=O)CO)[C@@]1(C)C[C@H](O)[C@@]1([H])[C@@]2([H])C[C@H](C)C2=CC(=O)C=C[C@]12C,C22H30O5,1
+DB00960,Pindolol,approved; investigational,CC(C)NCC(O)COC1=CC=CC2=C1C=CN2,C14H20N2O2,1
+DB12370,Ipamorelin,investigational,CC(C)(N)C(=O)N[C@@H](CC1=CNC=N1)C(=O)N[C@H](CC1=CC=C2C=CC=CC2=C1)C(=O)N[C@H](CC1=CC=CC=C1)C(=O)N[C@@H](CCCCN)C(N)=O,C38H49N9O5,1
+DB15198,Dextromethadone,investigational,CCC(=O)C(C[C@H](C)N(C)C)(C1=CC=CC=C1)C1=CC=CC=C1,C21H27NO,1
+DB00983,Formoterol,approved; investigational,COC1=CC=C(CC(C)NCC(O)C2=CC(NC=O)=C(O)C=C2)C=C1,C19H24N2O4,1
+DB00984,Nandrolone phenpropionate,approved; illicit; investigational,[H][C@@]12CC[C@H](OC(=O)CCC3=CC=CC=C3)[C@@]1(C)CC[C@]1([H])[C@@]3([H])CCC(=O)C=C3CC[C@@]21[H],C27H34O3,1
+DB15205,Capromorelin,investigational,CN1N=C2CCN(C[C@@]2(CC2=CC=CC=C2)C1=O)C(=O)[C@@H](COCC1=CC=CC=C1)NC(=O)C(C)(C)N,C28H35N5O4,1
+DB00990,Exemestane,approved; investigational,[H][C@@]12CCC(=O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CC(=C)C2=CC(=O)C=C[C@]12C,C20H24O2,1
+DB00999,Hydrochlorothiazide,approved; vet_approved,NS(=O)(=O)C1=C(Cl)C=C2NCNS(=O)(=O)C2=C1,C7H8ClN3O4S2,1
+DB08357,Diethylene glycol diethyl ether,experimental,CCOCCOCCOCC,C8H18O3,1
+DB01001,Salbutamol,approved; vet_approved,CC(C)(C)NCC(O)C1=CC(CO)=C(O)C=C1,C13H21NO3,1
+DB01006,Letrozole,approved; investigational,N#CC1=CC=C(C=C1)C(N1C=NC=N1)C1=CC=C(C=C1)C#N,C17H11N5,1
+DB08366,"3-({3-[(1S,4aS,6S,7S,9S,9aR)-1,6-dimethyl-2-oxodecahydro-6,9-epoxy-4a,7-methanobenzo[7]annulen-1-yl]propanoyl}amino)-2,4-dihydroxybenzoic acid",experimental,[H][C@]12C[C@]3([H])O[C@@]1(C)C[C@@]1(C2)CCC(=O)[C@@](C)(CCC(=O)NC2=C(O)C=CC(C(O)=O)=C2O)[C@]31[H],C24H29NO7,1
+DB05804,Prasterone sulfate,investigational,[H][C@@]12CCC(=O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CC=C2C[C@H](CC[C@]12C)OS(O)(=O)=O,C19H28O5S,1
+DB05805,NS-2359,investigational,COC[C@H]1[C@H]2CC[C@@H](C[C@@H]1C1=CC(Cl)=C(Cl)C=C1)N2C,C16H21Cl2NO,1
+DB05830,Trestolone,investigational,[H][C@@]12CC[C@H](O)[C@@]1(C)CC[C@]1([H])[C@@]3([H])CCC(=O)C=C3C[C@@H](C)[C@@]21[H],C19H28O2,1
+DB08387,Mardepodect,investigational,CN1C=C(C(=N1)C1=CC=C(OCC2=NC3=CC=CC=C3C=C2)C=C1)C1=CC=NC=C1,C25H20N4O,1
+DB08388,"5-(2-ETHOXYETHYL)-5-[4-(4-FLUOROPHENOXY)PHENOXY]PYRIMIDINE-2,4,6(1H,3H,5H)-TRIONE",experimental,CCOCCC1(OC2=CC=C(OC3=CC=C(F)C=C3)C=C2)C(=O)NC(=O)NC1=O,C20H19FN2O6,1
+DB01032,Probenecid,approved; investigational,CCCN(CCC)S(=O)(=O)C1=CC=C(C=C1)C(O)=O,C13H19NO4S,1
+DB01037,Selegiline,approved; investigational; vet_approved,C[C@H](CC1=CC=CC=C1)N(C)CC#C,C13H17N,1
+DB08426,"THIENO[3,2-B]PYRIDINE-2-SULFONIC ACID [2-OXO-1-(1H-PYRROLO[2,3-C]PYRIDIN-2-YLMETHYL)-PYRROLIDIN-3-YL]-AMIDE",experimental,[H][C@@]1(CCN(CC2=CC3=C(N2)C=NC=C3)C1=O)NS(=O)(=O)C1=CC2=C(S1)C=CC=N2,C19H17N5O3S2,1
+DB15339,Methcathinone,investigational,CNC(C)C(=O)C1=CC=CC=C1,C10H13NO,1
+DB03322,Dexpropranolol,experimental,CC(C)NC[C@@H](O)COC1=CC=CC2=C1C=CC=C2,C16H21NO2,1
+DB15374,Cobalt Co-60,investigational,[60Co],Co,1
+DB01105,Sibutramine,approved; illicit; investigational; withdrawn,CC(C)CC(N(C)C)C1(CCC1)C1=CC=C(Cl)C=C1,C17H26ClN,1
+DB03350,Cobalt hexammine ion,experimental,[NH3+][Co-3]([NH3+])([NH3+])([NH3+])([NH3+])[NH3+],CoH18N6,1
+DB03368,"5-Methyl-5-(4-Phenoxy-Phenyl)-Pyrimidine-2,4,6-Trione",experimental,CC1(C(=O)NC(=O)NC1=O)C1=CC=C(OC2=CC=CC=C2)C=C1,C17H14N2O4,1
+DB01136,Carvedilol,approved; investigational,COC1=CC=CC=C1OCCNCC(O)COC1=CC=CC2=C1C1=CC=CC=C1N2,C24H26N2O4,1
+DB15429,Thioglycolic acid,investigational,OC(=O)CS,C2H4O2S,1
+DB03394,Heptaethylene glycol,experimental,OCCOCCOCCOCCOCCOCCOCCO,C14H30O8,1
+DB01185,Fluoxymesterone,approved; illicit,[H][C@@]12CC[C@](C)(O)[C@@]1(C)C[C@H](O)[C@@]1(F)[C@@]2([H])CCC2=CC(=O)CC[C@]12C,C20H29FO3,1
+DB01191,Dexfenfluramine,approved; illicit; investigational; withdrawn,CCN[C@@H](C)CC1=CC=CC(=C1)C(F)(F)F,C12H16F3N,1
+DB01192,Oxymorphone,approved; investigational; vet_approved,[H][C@@]12OC3=C(O)C=CC4=C3[C@@]11CCN(C)[C@]([H])(C4)[C@]1(O)CCC2=O,C17H19NO4,1
+DB01193,Acebutolol,approved; investigational,CCCC(=O)NC1=CC=C(OCC(O)CNC(C)C)C(=C1)C(C)=O,C18H28N2O4,1
+DB12643,Nelivaptan,investigational,[H][C@]1(O)CN([C@@]([H])(C1)C(=O)N(C)C)[C@@]1(C(=O)N(C2=C1C=C(Cl)C=C2)S(=O)(=O)C1=C(OC)C=C(OC)C=C1)C1=CC=CC=C1OC,C30H32ClN3O8S,1
+DB15566,Prednisolone acetate,approved; vet_approved,[H][C@@]12CC[C@](O)(C(=O)COC(C)=O)[C@@]1(C)C[C@]([H])(O)[C@@]1([H])[C@@]2([H])CCC2=CC(=O)C=C[C@]12C,C23H30O6,1
+DB01203,Nadolol,approved,CC(C)(C)NCC(O)COC1=CC=CC2=C1C[C@H](O)[C@H](O)C2,C17H27NO4,1
+DB06212,Tolvaptan,approved,CC1=CC=CC=C1C(=O)NC1=CC(C)=C(C=C1)C(=O)N1CCC[C@@H](O)C2=C1C=CC(Cl)=C2,C26H25ClN2O3,1
+DB01210,Levobunolol,approved,CC(C)(C)NC[C@H](O)COC1=CC=CC2=C1CCCC2=O,C17H25NO3,1
+DB01214,Metipranolol,approved,CC(C)NCC(O)COC1=C(C)C(C)=C(OC(C)=O)C(C)=C1,C17H27NO4,1
+DB01217,Anastrozole,approved; investigational,CC(C)(C#N)C1=CC(=CC(CN2C=NC=N2)=C1)C(C)(C)C#N,C17H19N5,1
+DB01222,Budesonide,approved,[H][C@@]12C[C@H]3OC(CCC)O[C@@]3(C(=O)CO)[C@@]1(C)C[C@H](O)[C@@]1([H])[C@@]2([H])CCC2=CC(=O)C=C[C@]12C,C25H34O6,1
+DB01230,Pemoline,approved; illicit; investigational; withdrawn,NC1=NC(=O)C(O1)C1=CC=CC=C1,C9H8N2O2,1
+DB01234,Dexamethasone,approved; investigational; vet_approved,[H][C@@]12C[C@@H](C)[C@](O)(C(=O)CO)[C@@]1(C)C[C@H](O)[C@@]1(F)[C@@]2([H])CCC2=CC(=O)C=C[C@]12C,C22H29FO5,1
+DB01240,Epoprostenol,approved,[H][C@]12C[C@@H](O)[C@H](\C=C\[C@@H](O)CCCCC)[C@@]1([H])C\C(O2)=C\CCCC(O)=O,C20H32O5,1
+DB15642,Molidustat,investigational,O=C1N(NC=C1N1C=CN=N1)C1=NC=NC(=C1)N1CCOCC1,C13H14N8O2,1
+DB08619,Testosterone succinate,experimental,[H][C@@]1(CC[C@@]2([H])[C@]3([H])CCC4=CC(=O)CC[C@]4(C)[C@@]3([H])CC[C@]12C)OC(=O)CCC(O)=O,C23H32O5,1
+DB01255,Lisdexamfetamine,approved; investigational,C[C@@H](CC1=CC=CC=C1)NC(=O)[C@@H](N)CCCCN,C15H25N3O,1
+DB03508,Diethylene glycol ethyl methyl ether,experimental,CCOCCOCCOC,C7H16O3,1
+DB01274,Arformoterol,approved; investigational,COC1=CC=C(C[C@@H](C)NC[C@H](O)C2=CC(NC=O)=C(O)C=C2)C=C1,C19H24N2O4,1
+DB08641,"(2S,3S)-3-FORMYL-2-({[(4-NITROPHENYL)SULFONYL]AMINO}METHYL)PENTANOIC ACID",experimental,[H][C@@](CC)(C=O)[C@@]([H])(CNS(=O)(=O)C1=CC=C(C=C1)[N+]([O-])=O)C(O)=O,C13H16N2O7S,1
+DB01284,Tetracosactide,approved,CSCC[C@H](NC(=O)[C@H](CO)NC(=O)[C@H](CC1=CC=C(O)C=C1)NC(=O)[C@@H](N)CO)C(=O)N[C@@H](CCC(O)=O)C(=O)N[C@@H](CC1=CN=CN1)C(=O)N[C@@H](CC1=CC=CC=C1)C(=O)N[C@@H](CCCNC(N)=N)C(=O)N[C@@H](CC1=CNC2=C1C=CC=C2)C(=O)NCC(=O)N[C@@H](CCCCN)C(=O)N1CCC[C@H]1C(=O)N[C@@H](C(C)C)C(=O)NCC(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CCCNC(N)=N)C(=O)N[C@@H](CCCNC(N)=N)C(=O)N1CCC[C@H]1C(=O)N[C@@H](C(C)C)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](C(C)C)C(=O)N[C@@H](CC1=CC=C(O)C=C1)C(=O)N1CCC[C@H]1C(O)=O,C136H210N40O31S,1
+DB01288,Fenoterol,approved; investigational,CC(CC1=CC=C(O)C=C1)NCC(O)C1=CC(O)=CC(O)=C1,C17H21NO4,1
+DB15760,Cobaltous sulfate,experimental,[Co++].[O-]S([O-])(=O)=O,CoO4S,1
+DB15777,Fluocortolone pivalate,experimental,[H][C@@]12C[C@@H](C)[C@H](C(=O)COC(=O)C(C)(C)C)[C@@]1(C)C[C@H](O)[C@@]1([H])[C@@]2([H])C[C@H](F)C2=CC(=O)C=C[C@]12C,C27H37FO5,1
+DB06401,Bazedoxifene,approved; investigational,CC1=C(N(CC2=CC=C(OCCN3CCCCCC3)C=C2)C2=C1C=C(O)C=C2)C1=CC=C(O)C=C1,C30H34N2O3,1
+DB03556,"2-(2-{2-[2-(2-{2-[2-(2-Ethoxy-Ethoxy)-Ethoxy]-Ethoxy}-Ethoxy)-Ethoxy]-Ethoxy}-Ethoxy)-Ethanol, Polyethyleneglycol Peg400",experimental,CCOCCOCCOCCOCCOCCOCCOCCOCCO,C18H38O9,1
+DB06409,Morphine glucuronide,investigational,[H][C@]12C=C[C@H](O[C@@H]3O[C@@H]([C@@H](O)[C@H](O)[C@H]3O)C(O)=O)[C@@H]3OC4=C5C(C[C@H]1N(C)CC[C@@]235)=CC=C4O,C23H27NO9,1
+DB06412,Oxymetholone,approved; illicit,[H][C@@]12CC[C@](C)(O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CC[C@@]2([H])CC(=O)\C(C[C@]12C)=C/O,C21H32O3,1
+DB06413,Armodafinil,approved; investigational,NC(=O)C[S@@](=O)C(C1=CC=CC=C1)C1=CC=CC=C1,C15H15NO2S,1
+DB12779,Higenamine,investigational,OC1=CC=C(CC2NCCC3=C2C=C(O)C(O)=C3)C=C1,C16H17NO3,1
+DB03566,Spermidine,experimental,NCCCCNCCCN,C7H19N3,1
+DB15821,Fluocortolone caproate,experimental,[H][C@@]12C[C@@H](C)[C@H](C(=O)COC(=O)CCCCC)[C@@]1(C)C[C@H](O)[C@@]1([H])[C@@]2([H])C[C@H](F)C2=CC(=O)C=C[C@]12C,C28H39FO5,1
+DB08683,"REL-(9R,12S)-9,10,11,12-TETRAHYDRO-9,12-EPOXY-1H-DIINDOLO[1,2,3-FG:3',2',1'-KL]PYRROLO[3,4-I][1,6]BENZODIAZOCINE-1,3(2H)-DIONE",experimental,[H][C@]12CC[C@]([H])(O1)N1C3=C(C=CC=C3)C3=C4C(=O)NC(=O)C4=C4C5=C(C=CC=C5)N2C4=C13,C24H15N3O3,1
+DB12787,Norethandrolone,investigational,CC[C@]1(O)CC[C@H]2[C@@H]3CCC4=CC(=O)CC[C@@H]4[C@H]3CC[C@]12C,C20H30O2,1
+DB01364,Ephedrine,approved,CN[C@@H](C)[C@H](O)C1=CC=CC=C1,C10H15NO,1
+DB01365,Mephentermine,approved,CNC(C)(C)CC1=CC=CC=C1,C11H17N,1
+DB01366,Procaterol,approved; investigational,CC[C@@H](NC(C)C)[C@@H](O)C1=CC=C(O)C2=C1C=CC(=O)N2,C16H22N2O3,1
+DB08704,"[[(3R,4R,5S,6R)-4,5-dihydroxy-6-(hydroxymethyl)-3-(pentanoylamino)oxan-2-ylidene]amino] N-phenylcarbamate",experimental,[H][C@]1(CO)O\C(=N/OC(=O)NC2=CC=CC=C2)[C@]([H])(NC(=O)CCCC)[C@@]([H])(O)[C@]1([H])O,C18H25N3O7,1
+DB01380,Cortisone acetate,approved; investigational,[H][C@@]12CC[C@](O)(C(=O)COC(C)=O)[C@@]1(C)CC(=O)[C@@]1([H])[C@@]2([H])CCC2=CC(=O)CC[C@]12C,C23H30O6,1
+DB01406,Danazol,approved,[H][C@@]12CC[C@@](O)(C#C)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CCC2=CC3=C(C[C@]12C)C=NO3,C22H27NO2,1
+DB01407,Clenbuterol,approved; investigational; vet_approved,CC(C)(C)NCC(O)C1=CC(Cl)=C(N)C(Cl)=C1,C12H18Cl2N2O,1
+DB01410,Ciclesonide,approved; investigational,[H][C@@]12C[C@@]3([H])[C@]4([H])CCC5=CC(=O)C=C[C@]5(C)[C@@]4([H])[C@@H](O)C[C@]3(C)[C@@]1(O[C@@H](O2)C1CCCCC1)C(=O)COC(=O)C(C)C,C32H44O7,1
+DB12846,Reproterol,investigational,CN1C2=C(N(CCCNCC(O)C3=CC(O)=CC(O)=C3)C=N2)C(=O)N(C)C1=O,C18H23N5O5,1
+DB03622,"5-[4-(2-Hydroxyethyl)-1-piperidinyl]-5-phenyl-2,4,6(1H,3H,5H)-pyrimidinetrione",experimental,OCCC1CCN(CC1)[C@@]1(C(=O)NC(O)=NC1=O)C1=CC=CC=C1,C17H21N3O4,1
+DB01420,Testosterone propionate,approved; investigational; vet_approved; withdrawn,[H][C@@]12CC[C@H](OC(=O)CC)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CCC2=CC(=O)CC[C@]12C,C22H32O3,1
+DB12861,Rimeporide,investigational,CC1=CC(=C(C=C1C(=O)NC(N)=N)S(C)(=O)=O)S(C)(=O)=O,C11H15N3O5S2,1
+DB01434,19-norandrostenedione,experimental; illicit,[H][C@@]12CCC(=O)[C@@]1(C)CC[C@]1([H])[C@@]3([H])CCC(=O)C=C3CC[C@@]21[H],C18H24O2,1
+DB15954,Strychnine,experimental,[H][C@]12C[C@@]3([H])C4=CCO[C@@]5([H])CC(=O)N6C7=CC=CC=C7[C@@]1(CCN2C4)[C@]6([H])[C@@]35[H],C21H22N2O2,1
+DB01439,3-Methylthiofentanyl,experimental; illicit,CCC(=O)N(C1CCN(CCC2=CC=CS2)CC1C)C1=CC=CC=C1,C21H28N2OS,1
+DB01443,19-Nor-5-androstenedione,experimental; illicit,[H][C@@]12CCC(=O)[C@@]1(C)CC[C@]1([H])[C@@]3([H])CCC(=O)CC3=CC[C@@]21[H],C18H24O2,1
+DB01448,19-Nor-4-androstenedione,experimental; illicit,,,1
+DB01451,1-Androstenedione,experimental; illicit,[H][C@@]12CCC(=O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CC[C@@]2([H])CC(=O)C=C[C@]12C,C19H26O2,1
+DB01452,Diamorphine,approved; illicit; investigational,[H][C@@]12C=C[C@H](OC(C)=O)[C@@H]3OC4=C(OC(C)=O)C=CC5=C4[C@]13CCN(C)[C@@H]2C5,C21H23NO5,1
+DB01453,Beta-hydroxyfentanyl,experimental; illicit,CCC(=O)N(C1CCN(CC(O)C2=CC=CC=C2)CC1)C1=CC=CC=C1,C22H28N2O2,1
+DB15970,Chloroprednisone,experimental,[H][C@@]12CC[C@](O)(C(=O)CO)[C@@]1(C)CC(=O)[C@@]1([H])[C@@]2([H])C[C@H](Cl)C2=CC(=O)C=C[C@]12C,C21H25ClO5,1
+DB01455,19-Nor-5-androstenediol,experimental; illicit,[H][C@@]12CC[C@H](O)[C@@]1(C)CC[C@]1([H])[C@@]3([H])CC[C@H](O)CC3=CC[C@@]21[H],C18H28O2,1
+DB01456,5-androstenedione,experimental; illicit,[H][C@@]12CCC(=O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CC=C2CC(=O)CC[C@]12C,C19H26O2,1
+DB01458,"2,5-Dimethoxy-4-(n)-propylthiophenethylamine",experimental; illicit,CCCSC1=CC(OC)=C(CCN)C=C1OC,C13H21NO2S,1
+DB01463,Fencamfamin,experimental; illicit; withdrawn,CCNC1C2CCC(C2)C1C1=CC=CC=C1,C15H21N,1
+DB15984,Clostebol acetate,experimental,[H][C@@]12CC[C@H](OC(C)=O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CCC2=C(Cl)C(=O)CC[C@]12C,C21H29ClO3,1
+DB01466,Ethylmorphine,experimental; illicit,[H][C@@]12OC3=C(OCC)C=CC4=C3[C@@]11CCN(C)[C@]([H])(C4)[C@]1([H])C=C[C@@H]2O,C19H23NO3,1
+DB15988,Ephedrine levulinate,experimental,CN[C@@H](C)[C@H](OC(=O)CCC(C)=O)C1=CC=CC=C1,C15H21NO3,1
+DB01470,alpha-methylthiofentanyl,illicit,CCC(=O)N(C1CCN(CC1)C(C)CC1=CC=CS1)C1=CC=CC=C1,C21H28N2OS,1
+DB01471,Bolasterone,experimental; illicit,[H][C@@]12CC[C@](C)(O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])[C@H](C)CC2=CC(=O)CC[C@]12C,C21H32O2,1
+DB12915,Corticorelin acetate,investigational,,,1
+DB06622,7-beta-Hydroxyepiandrosterone,investigational,[H][C@@]12CCC(=O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])[C@@H](O)C[C@@]2([H])C[C@@H](O)CC[C@]12C,C19H30O3,1
+DB15999,Prednisolone caproate,experimental,[H][C@@]12CC[C@](O)(C(=O)COC(=O)CCCCC)[C@@]1(C)C[C@H](O)[C@@]1([H])[C@@]2([H])CCC2=CC(=O)C=C[C@]12C,C27H38O6,1
+DB16001,Testosterone decanoate,experimental,[H][C@@]12CC[C@H](OC(=O)CCCCCCCCC)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CCC2=CC(=O)CC[C@]12C,C29H46O3,1
+DB01481,1-Testosterone,experimental; illicit; investigational,[H][C@@]12CC[C@H](O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CC[C@@]2([H])CC(=O)C=C[C@]12C,C19H28O2,1
+DB16002,Testosterone isocaproate,experimental,[H][C@@]12CC[C@H](OC(=O)CCC(C)C)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CCC2=CC(=O)CC[C@]12C,C25H38O3,1
+DB16003,Testosterone phenylpropionate,experimental,[H][C@@]12CC[C@H](OC(=O)CCC3=CC=CC=C3)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CCC2=CC(=O)CC[C@]12C,C28H36O3,1
+DB01485,4-Hydroxytestosterone,experimental; illicit,[H][C@@]12CC[C@H](O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CCC2=C(O)C(=O)CC[C@]12C,C19H28O3,1
+DB01486,Cathine,experimental; illicit,C[C@H](N)[C@@H](O)C1=CC=CC=C1,C9H13NO,1
+DB08804,Nandrolone decanoate,approved; illicit,[H][C@@]12CC[C@H](OC(=O)CCCCCCCCC)[C@@]1(C)CC[C@]1([H])[C@@]3([H])CCC(=O)C=C3CC[C@@]21[H],C28H44O3,1
+DB06645,Anamorelin,investigational,CN(C)N(C)C(=O)[C@@]1(CC2=CC=CC=C2)CCCN(C1)C(=O)[C@@H](CC1=CNC2=CC=CC=C12)NC(=O)C(C)(C)N,C31H42N6O3,1
+DB08807,Bopindolol,experimental,CC1=CC2=C(N1)C=CC=C2OCC(CNC(C)(C)C)OC(=O)C1=CC=CC=C1,C23H28N2O3,1
+DB01493,Ethylestrenol,withdrawn,[H][C@@]12CC[C@@](O)(CC)[C@@]1(C)CC[C@]1([H])[C@@]3([H])CCCC=C3CC[C@@]21[H],C20H32O,1
+DB12948,Didox,investigational,ONC(=O)C1=CC(O)=C(O)C=C1,C7H7NO4,1
+DB01500,Oxabolone,experimental; illicit,[H][C@@]12CC[C@H](O)[C@@]1(C)CC[C@]1([H])[C@@]3([H])CCC(=O)C(O)=C3CC[C@@]21[H],C18H26O3,1
+DB06666,Lixivaptan,investigational,CC1=CC=C(F)C=C1C(=O)NC1=CC=C(C(=O)N2CC3=CC=CN3CC3=C2C=CC=C3)C(Cl)=C1,C27H21ClFN3O2,1
+DB12952,Methylprednisone,approved; investigational,C[C@H]1C[C@H]2[C@@H]3CC[C@](O)(C(=O)CO)[C@@]3(C)CC(=O)[C@@H]2[C@@]2(C)C=CC(=O)C=C12,C22H28O5,1
+DB01503,1-Androstenediol,experimental; illicit,[H][C@@]12CC[C@H](O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CC[C@@]2([H])C[C@@H](O)C=C[C@]12C,C19H30O2,1
+DB01509,Tenamfetamine,experimental; illicit,CC(N)CC1=CC2=C(OCO2)C=C1,C10H13NO2,1
+DB01510,Dehydrochloromethyltestosterone,experimental; illicit,,,1
+DB01514,Furazabol,illicit,[H][C@@]12CC[C@](C)(O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CC[C@@]2([H])CC3=NON=C3C[C@]12C,C20H30N2O2,1
+DB01521,Clostebol,experimental; illicit,[H][C@@]12CC[C@H](O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CCC2=C(Cl)C(=O)CC[C@]12C,C19H27ClO2,1
+DB01524,Androstenediol,experimental; illicit,[H][C@@]12CC[C@H](O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CC=C2C[C@@H](O)CC[C@]12C,C19H30O2,1
+DB01526,4-Androstenediol,experimental; illicit,[H][C@@]12CC[C@H](O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CCC2=C[C@@H](O)CC[C@]12C,C19H30O2,1
+DB06701,Dexmethylphenidate,approved; investigational,[H][C@@](C(=O)OC)(C1=CC=CC=C1)[C@@]1([H])CCCCN1,C14H19NO2,1
+DB01529,Dextromoramide,experimental; illicit,C[C@H](CN1CCOCC1)C(C(=O)N1CCCC1)(C1=CC=CC=C1)C1=CC=CC=C1,C25H32N2O2,1
+DB01531,Desomorphine,experimental; illicit,[H][C@@]12CCC[C@@]3([H])[C@@]4([H])CC5=CC=C(O)C(O1)=C5[C@@]23CCN4C,C17H21NO2,1
+DB01532,α-Methylacetylfentanyl,illicit,CC(CC1=CC=CC=C1)N1CCC(CC1)N(C(C)=O)C1=CC=CC=C1,C22H28N2O,1
+DB06706,Isometheptene,approved,CNC(C)CCC=C(C)C,C9H19N,1
+DB01536,Androstenedione,experimental; illicit,[H][C@@]12CCC(=O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CCC2=CC(=O)CC[C@]12C,C19H26O2,1
+DB01537,"4-Bromo-2,5-dimethoxyphenethylamine",experimental; illicit,COC1=CC(Br)=C(OC)C=C1CCN,C10H14BrNO2,1
+DB06710,Methyltestosterone,approved,[H][C@@]12CC[C@](C)(O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CCC2=CC(=O)CC[C@]12C,C20H30O2,1
+DB01540,17alpha-methyl-4-hydroxynandrolone,illicit,[H][C@@]12CC[C@](C)(O)[C@@]1(C)CC[C@]1([H])[C@@]3([H])CCC(=O)C(O)=C3CC[C@@]21[H],C19H28O3,1
+DB01541,Boldenone,illicit; vet_approved,[H][C@@]12CC[C@H](O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CCC2=CC(=O)C=C[C@]12C,C19H26O2,1
+DB06714,Propylhexedrine,approved,CNC(C)CC1CCCCC1,C10H21N,1
+DB01543,18-methyl-19-nortestosterone,experimental; illicit,[H][C@@]12CC[C@H](O)[C@@]1(CC)CC[C@]1([H])[C@@]3([H])CCC(=O)C=C3CC[C@@]21[H],C19H28O2,1
+DB06718,Stanozolol,approved; vet_approved,[H][C@@]12CC[C@](C)(O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CC[C@@]2([H])CC3=NNC=C3C[C@]12C,C21H32N2O,1
+DB06719,Buserelin,approved; investigational,CCNC(=O)[C@@H]1CCCN1C(=O)[C@H](CCCNC(N)=N)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](COC(C)(C)C)NC(=O)[C@H](CC1=CC=C(O)C=C1)NC(=O)[C@H](CO)NC(=O)[C@H](CC1=CNC2=C1C=CC=C2)NC(=O)[C@H](CC1=CN=CN1)NC(=O)[C@@H]1CCC(=O)N1,C60H86N16O13,1
+DB01550,Fenproporex,experimental; illicit; withdrawn,CC(CC1=CC=CC=C1)NCCC#N,C12H16N2,1
+DB01556,Chlorphentermine,illicit; withdrawn,CC(C)(N)CC1=CC=C(Cl)C=C1,C10H14ClN,1
+DB01557,α-Methylfentanyl,illicit,CCC(=O)N(C1CCN(CC1)C(C)CC1=CC=CC=C1)C1=CC=CC=C1,C23H30N2O,1
+DB01560,Cathinone,illicit,C[C@H](N)C(=O)C1=CC=CC=C1,C9H11NO,1
+DB01564,Calusterone,experimental; illicit,[H][C@@]12CC[C@](C)(O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])[C@@H](C)CC2=CC(=O)CC[C@]12C,C21H32O2,1
+DB01565,Dihydromorphine,experimental; illicit,[H][C@@]12OC3=C(O)C=CC4=C3[C@@]11CCN(C)[C@]([H])(C4)[C@]1([H])CC[C@@H]2O,C17H21NO3,1
+DB08905,Formestane,approved; investigational; withdrawn,[H][C@@]12CCC(=O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CCC2=C(O)C(=O)CC[C@]12C,C19H26O3,1
+DB01569,Formebolone,experimental; illicit,[H][C@@]12CC[C@](C)(O)[C@@]1(C)C[C@@H](O)[C@@]1([H])[C@@]2([H])CCC2=CC(=O)C(C=O)=C[C@]12C,C21H28O4,1
+DB01570,Ohmefentanyl,illicit,CCC(=O)N(C1CCN(CC(O)C2=CC=CC=C2)CC1C)C1=CC=CC=C1,C23H30N2O2,1
+DB01571,3-Methylfentanyl,illicit,CCC(=O)N(C1CCN(CCC2=CC=CC=C2)CC1C)C1=CC=CC=C1,C23H30N2O,1
+DB01572,Methyl-1-testosterone,experimental; illicit,[H][C@@]12CC[C@](C)(O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CC[C@@]2([H])CC(=O)C=C[C@]12C,C20H30O2,1
+DB01573,Benzylmorphine,experimental; illicit,[H][C@@]12OC3=C(OCC4=CC=CC=C4)C=CC4=C3[C@@]11CCN(C)[C@]([H])(C4)[C@]1([H])C=C[C@@H]2O,C24H25NO3,1
+DB08906,Fluticasone furoate,approved,[H][C@@]12C[C@@H](C)[C@](OC(=O)C3=CC=CO3)(C(=O)SCF)[C@@]1(C)C[C@H](O)[C@@]1(F)[C@@]2([H])C[C@H](F)C2=CC(=O)C=C[C@]12C,C27H29F3O6S,1
+DB01577,Metamfetamine,approved; illicit; withdrawn,CN[C@@H](C)CC1=CC=CC=C1,C10H15N,1
+DB01579,Phendimetrazine,approved; illicit,C[C@H]1[C@@H](OCCN1C)C1=CC=CC=C1,C12H17NO,1
+DB01580,Oxprenolol,approved,CC(C)NCC(O)COC1=CC=CC=C1OCC=C,C15H23NO3,1
+DB16117,Buprenorphine hemiadipate,investigational,[H][C@@]12OC3=C4C(C[C@H]5N(CC6CC6)CC[C@@]14[C@@]51CC[C@@]2(OC)[C@]([H])(C1)[C@](C)(O)C(C)(C)C)=CC=C3OC(=O)CCCCC(O)=O,C35H49NO7,1
+DB08925,Adrafinil,withdrawn,ONC(=O)CS(=O)C(C1=CC=CC=C1)C1=CC=CC=C1,C15H15NO3S,1
+DB16136,Dexisometheptene mucate,investigational,CN[C@H](C)CCC=C(C)C,C9H19N,1
+DB16141,Dimethandrolone Undecanoate,investigational,[H][C@@]12CC[C@H](OC(=O)CCCCCCCCCC)[C@@]1(C)C[C@H](C)[C@]1([H])[C@@]3([H])CCC(=O)C=C3C[C@@H](C)[C@@]21[H],C31H50O3,1
+DB06788,Histrelin,approved; withdrawn,CC(O)=O.CC(O)=O.CCNC(=O)[C@@H]1CCCN1C(=O)[C@H](CCCNC(N)=N)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](CC1=CN(CC2=CC=CC=C2)C=N1)NC(=O)[C@H](CC1=CC=C(O)C=C1)NC(=O)[C@H](CO)NC(=O)[C@H](CC1=CNC2=C1C=CC=C2)NC(=O)[C@H](CC1=CNC=N1)NC(=O)[C@@H]1CCC(=O)N1,C70H94N18O16,1
+DB13074,Macimorelin,approved; investigational,CC(C)(N)C(=O)N[C@H](CC1=CNC2=CC=CC=C12)C(=O)N[C@H](CC1=CNC2=CC=CC=C12)NC=O,C26H30N6O3,1
+DB08971,Fluocortolone,approved; withdrawn,[H][C@@]12C[C@@H](C)[C@H](C(=O)CO)[C@@]1(C)C[C@H](O)[C@@]1([H])[C@@]2([H])C[C@H](F)C2=CC(=O)C=C[C@]12C,C22H29FO4,1
+DB08973,Fluclorolone acetonide,approved; withdrawn,[H][C@@]12C[C@@]3([H])[C@]4([H])C[C@H](F)C5=CC(=O)C=C[C@]5(C)[C@@]4(Cl)[C@@H](Cl)C[C@]3(C)[C@@]1(OC(C)(C)O2)C(=O)CO,C24H29Cl2FO5,1
+DB06825,Triptorelin,approved; vet_approved,CC(C)C[C@H](NC(=O)[C@@H](CC1=CNC2=CC=CC=C12)NC(=O)[C@H](CC1=CC=C(O)C=C1)NC(=O)[C@H](CO)NC(=O)[C@H](CC1=CNC2=C1C=CC=C2)NC(=O)[C@H](CC1=CNC=N1)NC(=O)[C@@H]1CCC(=O)N1)C(=O)N[C@@H](CCCNC(N)=N)C(=O)N1CCC[C@H]1C(=O)NCC(N)=O,C64H82N18O13,1
+DB08985,Etilefrine,approved; withdrawn,CCNCC(O)C1=CC=CC(O)=C1,C10H15NO2,1
+DB08989,Etamivan,withdrawn,CCN(CC)C(=O)C1=CC(OC)=C(O)C=C1,C12H17NO3,1
+DB13108,Mephedrone,investigational,CNC(C)C(=O)C1=CC=C(C)C=C1,C11H15NO,1
+DB13139,Levosalbutamol,approved; investigational,CC(C)(C)NC[C@H](O)C1=CC(CO)=C(O)C=C1,C13H21NO3,1
+DB09022,Benfluorex,investigational; withdrawn,CC(CC1=CC(=CC=C1)C(F)(F)F)NCCOC(=O)C1=CC=CC=C1,C19H20F3NO2,1
+DB06870,Tetrahydrogestrinone,experimental,[H][C@@]12CC[C@@](O)(CC)[C@@]1(CC)C=CC1=C3CCC(=O)C=C3CC[C@@]21[H],C21H28O2,1
+DB13169,Nandrolone,experimental; investigational,[H][C@@]12CC[C@H](O)[C@@]1(C)CC[C@]1([H])[C@@]3([H])CCC(=O)C=C3CC[C@@]21[H],C18H26O2,1
+DB16279,Pecavaptan,investigational,C[C@H](O)C1=NC(CN2N=C(N(C[C@H](O)C(F)(F)F)C2=O)C2=CC=C(Cl)C=C2)=NN1C1=CC(Cl)=CC=C1,C22H19Cl2F3N6O3,1
+DB01708,Prasterone,approved; investigational; nutraceutical,[H][C@@]12CCC(=O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CC=C2C[C@@]([H])(O)CC[C@]12C,C19H28O2,1
+DB09069,Trimetazidine,approved; investigational,COC1=C(OC)C(OC)=C(CN2CCNCC2)C=C1,C14H22N2O3,1
+DB09070,Tibolone,approved; investigational,[H][C@@]12CC[C@@](O)(C#C)[C@@]1(C)CC[C@]1([H])C3=C(CC(=O)CC3)C[C@@]([H])(C)[C@@]21[H],C21H28O2,1
+DB13185,Oxabolone cipionate,experimental,[H][C@@]1(CC[C@@]2([H])[C@]3([H])CCC4=C(O)C(=O)CC[C@]4([H])[C@@]3([H])CC[C@]12C)OC(=O)CCC1CCCC1,C26H38O4,1
+DB09080,Olodaterol,approved,COC1=CC=C(CC(C)(C)NC[C@H](O)C2=C3OCC(=O)NC3=CC(O)=C2)C=C1,C21H26N2O5,1
+DB09082,Vilanterol,approved,OCC1=C(O)C=CC(=C1)[C@@H](O)CNCCCCCCOCCOCC1=C(Cl)C=CC=C1Cl,C24H33Cl2NO5,1
+DB09095,Difluocortolone,approved; investigational; withdrawn,[H][C@@]12C[C@@H](C)[C@H](C(=O)CO)[C@@]1(C)C[C@H](O)[C@@]1(F)[C@@]2([H])C[C@H](F)C2=CC(=O)C=C[C@]12C,C22H28F2O4,1
+DB03962,Nicotinamide 8-bromo-adenine dinucleotide phosphate,experimental,[H]N([H])C(=O)C1=C[N+](=CC=C1)[C@@H]1O[C@H](COP([O-])(=O)OP(O)(=O)OC[C@H]2O[C@H]([C@H](OP(O)(O)=O)[C@@H]2O)N2C(Br)=NC3=C(N=CN=C23)N([H])[H])[C@@H](O)[C@H]1O,C21H27BrN7O17P3,1
+DB13238,Tuaminoheptane,experimental,CCCCCC(C)N,C7H17N,1
+DB13251,Octopamine,experimental,NCC(O)C1=CC=C(O)C=C1,C8H11NO2,1
+DB09168,4-Phenylfentanyl,illicit,CCC(=O)N(C1=CC=CC=C1)C1(CCN(CCC2=CC=CC=C2)CC1)C1=CC=CC=C1,C28H32N2O,1
+DB09169,3-Allylfentanyl,illicit,CCC(=O)N([C@@H]1CCN(CCC2=CC=CC=C2)C[C@@H]1CC=C)C1=CC=CC=C1,C25H32N2O,1
+DB13285,Etilamfetamine,experimental,CCNC(C)CC1=CC=CC=C1,C11H17N,1
+DB09170,β-Hydroxythiofentanyl,illicit,CCC(=O)N(C1CCN(CC(O)C2=CC=CS2)CC1)C1=CC=CC=C1,C20H26N2O2S,1
+DB09171,β-Methylfentanyl,illicit,CCC(=O)N(C1CCN(CC(C)C2=CC=CC=C2)CC1)C1=CC=CC=C1,C23H30N2O,1
+DB09173,Butyrfentanyl,illicit,CCCC(=O)N(C1CCN(CCC2=CC=CC=C2)CC1)C1=CC=CC=C1,C23H30N2O,1
+DB06987,(R)-Atenolol,experimental,CC(C)NC[C@@H](O)COC1=CC=C(CC(N)=O)C=C1,C14H22N2O3,1
+DB09177,p-Fluorofentanyl,illicit,CCC(=O)N(C1CCN(CCC2=CC=CC=C2)CC1)C1=CC=C(F)C=C1,C22H27FN2O,1
+DB09180,Thienylfentanyl,illicit,CCC(=O)N(C1CCN(CCC2=CC=CS2)CC1)C1=CC=CC=C1,C20H26N2OS,1
+DB09182,Benzylfentanyl,illicit,CCC(=O)N(C1CCN(CC2=CC=CC=C2)CC1)C1=CC=CC=C1,C21H26N2O,1
+DB16625,Prasterone enantate,approved,[H][C@@]12CCC(=O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CC=C2C[C@H](CC[C@]12C)OC(=O)CCCCCC,C26H40O3,1
+DB16629,Serdexmethylphenidate,approved,[H][C@@]1(CCCCN1C(=O)OC[N+]1=CC=CC(=C1)C(=O)N[C@@H](CO)C([O-])=O)[C@H](C(=O)OC)C1=CC=CC=C1,C25H29N3O8,1
+DB01839,Propylene glycol,approved; investigational,CC(O)CO,C3H8O2,1
+DB16702,Famprofazone,experimental,CC(C)C1=C(CN(C)C(C)CC2=CC=CC=C2)N(C)N(C1=O)C1=CC=CC=C1,C24H31N3O,1
+DB16741,Bortezomib D-mannitol,approved,[H][C@@]1(OB(O[C@]1([H])[C@H](O)CO)[C@H](CC(C)C)NC(=O)[C@H](CC1=CC=CC=C1)NC(=O)C1=NC=CN=C1)[C@H](O)CO,C25H35BN4O8,1
+DB07027,D-phenylalanyl-N-(3-fluorobenzyl)-L-prolinamide,experimental,[H][C@@](N)(CC1=CC=CC=C1)C(=O)N1CCC[C@@]1([H])C(=O)NCC1=CC=CC(F)=C1,C21H24FN3O2,1
+DB01873,Epothilone D,investigational,[H][C@]1(C\C=C(C)/CCC[C@H](C)[C@H](O)[C@@H](C)C(=O)C(C)(C)[C@@H](O)CC(=O)O1)C(\C)=C\C1=CSC(C)=N1,C27H41NO5S,1
+DB16826,Repotrectinib,approved; investigational,C[C@H]1CNC(=O)C2=C3N=C(N[C@H](C)C4=CC(F)=CC=C4O1)C=CN3N=C2,C18H18FN5O2,1
+DB09255,Dextran,approved; investigational; vet_approved,,,1
+DB13378,Norfenefrine,experimental,NCC(O)C1=CC(O)=CC=C1,C8H11NO2,1
+DB09287,Polyethylene glycol,approved; vet_approved,,,1
+DB13415,Pentetrazol,experimental; withdrawn,C1CCN2N=NN=C2CC1,C6H10N4,1
+DB09315,Xenon-133,approved,[133Xe],Xe,1
+DB07117,"5-(4-PHENOXYPHENYL)-5-(4-PYRIMIDIN-2-YLPIPERAZIN-1-YL)PYRIMIDINE-2,4,6(2H,3H)-TRIONE",experimental,O=C1NC(=O)C(N2CCN(CC2)C2=NC=CC=N2)(C(=O)N1)C1=CC=C(OC2=CC=CC=C2)C=C1,C24H22N6O4,1
+DB04152,"2-Amino-3-(3-Hydroxy-7,8-Dihydro-6h-Cyclohepta[D]-4-Isoxazolyl)Propionic Acid",experimental,N[C@@H](CC1=CCCCC2=C1C(=O)NO2)C(O)=O,C11H14N2O4,1
+DB13438,Prolintane,experimental,CCCC(CC1=CC=CC=C1)N1CCCC1,C15H23N,1
+DB13443,Esatenolol,experimental,CC(C)NC[C@H](O)COC1=CC=C(CC(N)=O)C=C1,C14H22N2O3,1
+DB13453,Xenon,experimental,[Xe],Xe,1
+DB13454,Nicomorphine,experimental,[H][C@@]12OC3=C(OC(=O)C4=CN=CC=C4)C=CC4=C3[C@@]11CCN(C)[C@]([H])(C4)[C@]1([H])C=C[C@]2([H])OC(=O)C1=CN=CC=C1,C29H25N3O5,1
+DB16927,S-Apomorphine,investigational,[H][C@]12CC3=C(C(O)=C(O)C=C3)C3=C1C(CCN2C)=CC=C3,C17H17NO2,1
+DB09351,Levobetaxolol,approved; investigational,CC(C)NC[C@H](O)COC1=CC=C(CCOCC2CC2)C=C1,C18H29NO3,1
+DB13472,Cyclofenil,experimental,CC(=O)OC1=CC=C(C=C1)C(=C1CCCCC1)C1=CC=C(OC(C)=O)C=C1,C23H24O4,1
+DB09378,Fluprednisolone,approved,[H][C@@]12CC[C@](O)(C(=O)CO)[C@@]1(C)C[C@H](O)[C@@]1([H])[C@@]2([H])C[C@H](F)C2=CC(=O)C=C[C@]12C,C21H27FO5,1
+DB09383,Meprednisone,approved; investigational,[H][C@]1(C)C[C@@]2([H])[C@]3([H])CCC4=CC(=O)C=C[C@]4(C)[C@@]3([H])C(=O)C[C@]2(C)[C@@]1(O)C(=O)CO,C22H28O5,1
+DB13484,Quinbolone,experimental,C[C@]12CC[C@H]3[C@@H](CCC4=CC(=O)C=C[C@]34C)[C@@H]1CC[C@@H]2OC1=CCCC1,C24H32O2,1
+DB04230,Nitromethyldethia coenzyme A,experimental,[H]N([H])C1=C2N=CN([C@@H]3O[C@H](COP(O)(=O)OP(O)(=O)OCC(C)(C)[C@@H](O)C(=O)N([H])CCC(=O)N([H])CCC[N+]([O-])=O)[C@@H](OP(O)(O)=O)[C@H]3O)C2=NC=N1,C22H37N8O18P3,1
+DB09461,Xenon Xe-127,approved,[127Xe],Xe,1
+DB13515,Levomethadone,experimental,CCC(=O)C(C[C@@H](C)N(C)C)(C1=CC=CC=C1)C1=CC=CC=C1,C21H27NO,1
+DB13530,Mepindolol,experimental,CC(C)NCC(O)COC1=CC=CC2=C1C=C(C)N2,C15H22N2O2,1
+DB13533,Methylestrenolone,experimental,C[C@]1(O)CC[C@H]2[C@@H]3CCC4=CC(=O)CC[C@@H]4[C@H]3CC[C@]12C,C19H28O2,1
+DB02069,N-(2-Flouro-Benzyl)-4-Sulfamoyl-Benzamide,experimental,NS(=O)(=O)C1=CC=C(C=C1)C(=O)NCC1=CC=CC=C1F,C14H13FN2O3S,1
+DB09571,Levmetamfetamine,approved,CN[C@H](C)CC1=CC=CC=C1,C10H15N,1
+DB13560,Dextranomer,experimental,,,1
+DB13561,Clobenzorex,experimental,C[C@@H](CC1=CC=CC=C1)NCC1=CC=CC=C1Cl,C16H18ClN,1
+DB13574,Heptaminol,experimental,CC(N)CCCC(C)(C)O,C8H19NO,1
+DB11077,Polyethylene glycol 400,approved,,,1
+DB13586,Metandienone,experimental; withdrawn,[H][C@@]12CC[C@](C)(O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CCC2=CC(=O)C=C[C@]12C,C20H28O2,1
+DB13587,Mesterolone,experimental,[H][C@@]12CC[C@H](O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CC[C@@]2([H])CC(=O)C[C@H](C)[C@]12C,C20H32O2,1
+DB04325,Phenethylamine,experimental,NCCC1=CC=CC=C1,C8H11N,1
+DB04331,Monastrol,experimental,CCOC(=O)C1=C(C)NC(=S)N[C@H]1C1=CC=CC(O)=C1,C14H16N2O3S,1
+DB11124,Racepinephrine,approved,,,1
+DB17152,DRF-1042,investigational,CC[C@@]1(O)C(=O)OCC2=C1C=C1N(C(OCCO)C3=CC4=CC=CC=C4N=C13)C2=O,C22H20N2O6,1
+DB02159,(R)-Propylene glycol,experimental,C[C@@H](O)CO,C3H8O2,1
+DB17202,Apomorphine palmitate,investigational,[H][C@@]12CC3=C(C(OC(=O)CCCCCCCCCCCCCCC)=C(OC(=O)CCCCCCCCCCCCCCC)C=C3)C3=C1C(CCN2C)=CC=C3,C49H77NO4,1
+DB11161,Polyethylene glycol 300,approved,,,1
+DB13653,Lorcainide,experimental,CC(C)N1CCC(CC1)N(C(=O)CC1=CC=CC=C1)C1=CC=C(Cl)C=C1,C22H27ClN2O,1
+DB13655,Nikethamide,experimental,CCN(CC)C(=O)C1=CN=CC=C1,C10H14N2O,1
+DB11208,Aluminum chlorohydrex propylene glycol,approved,,,1
+DB07373,Boldione,experimental,[H][C@@]12CCC(=O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CCC2=CC(=O)C=C[C@]12C,C19H24O2,1
+DB17384,Tinengotinib,investigational,CC1=C2N=C(C3=CC=CC=C3Cl)C3=C(NC2=NN1)C=C(N=C3)N1CCOCC1,C20H19ClN6O,1
+DB17386,Xenon Xe-129,approved,[129Xe],Xe,1
+DB13692,Tretoquinol,experimental,COC1=CC(C[C@@H]2NCCC3=CC(O)=C(O)C=C23)=CC(OC)=C1OC,C19H23NO5,1
+DB11236,Polyethylene glycol 3500,experimental,,,1
+DB13710,Metenolone,experimental,[H][C@]1(O)CC[C@@]2([H])[C@]3([H])CC[C@@]4([H])CC(=O)C=C(C)[C@]4(C)[C@@]3([H])CC[C@]12C,C20H30O2,1
+DB13723,Meldonium,experimental,C[N+](C)(C)NCCC([O-])=O,C6H14N2O2,1
+DB11278,DL-Methylephedrine,approved,C[C@@H]([C@H](O)C1=CC=CC=C1)N(C)C,C11H17NO,1
+DB07419,S-23,experimental,C[C@](O)(COC1=CC=C(Cl)C(F)=C1)C(=O)NC1=CC(=C(C=C1)C#N)C(F)(F)F,C18H13ClF4N2O3,1
+DB07423,Andarine,experimental,CC(=O)NC1=CC=C(OC[C@](C)(O)C(=O)NC2=CC=C(C(=C2)C(F)(F)F)[N+]([O-])=O)C=C1,C19H18F3N3O6,1
