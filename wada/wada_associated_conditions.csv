@@ -1,0 +1,589 @@
+DrugBank ID,Indication Type,Indication,Combined Product Details
+DB00014,Induction of,Abnormal uterine bleeding,
+DB00014,Management of,Advanced breast cancer,
+DB00014,Management of,Endometriosis,
+DB00014,Management of,Advanced carcinoma of the prostate,
+DB00014,Used in combination to manage,Stage t2b carcinoma of the prostate,Regimen in combination with:Flutamide (DB00499)
+DB00035,Prevention of,Bleeding,
+DB00035,Prevention of,Bleeding,
+DB00035,Treatment of,Bleeding,
+DB00035,Treatment of,Bleeding,
+DB00035,Treatment of,Bleeding,
+DB11323,Used in combination to treat,Back pain lower back,"Combination Product in combination with:Synthetic camphor (DB14156),alpha-Tocopherol acetate (DB14003),Levomenthol (DB00825)"
+DB11323,Used in combination to treat,Bruises,"Combination Product in combination with:alpha-Tocopherol acetate (DB14003),Levomenthol (DB00825),Synthetic camphor (DB14156)"
+DB11323,Used in combination to treat,Chilblains,"Combination Product in combination with:Levomenthol (DB00825),alpha-Tocopherol acetate (DB14003),Synthetic camphor (DB14156)"
+DB11323,Used in combination to treat,Joint pain,"Combination Product in combination with:Levomenthol (DB00825),alpha-Tocopherol acetate (DB14003),Synthetic camphor (DB14156)"
+DB11323,Used in combination to treat,Pain caused by fracture bone,"Combination Product in combination with:Synthetic camphor (DB14156),alpha-Tocopherol acetate (DB14003),Levomenthol (DB00825)"
+DB00180,Treatment of,Allergic rhinitis,
+DB00180,Treatment of,Asthma,
+DB00187,Treatment of,High blood pressure (hypertension),
+DB00187,Treatment of,Tachycardia,
+DB00187,Treatment of,Abnormal ventricular rate,
+DB00187,Treatment of,Abnormal ventricular rate,
+DB00187,Treatment of,Abnormal ventricular rate,
+DB00191,Adjunct therapy in treatment of,Obesity,
+DB00191,Adjunct therapy in treatment of,Obesity,
+DB00191,Used in combination to manage,Obesity,Combination Product in combination with:Topiramate (DB00273)
+DB00191,Used in combination to manage,Obesity,Combination Product in combination with:Topiramate (DB00273)
+DB00193,Used in combination to treat,Acute pain,Combination Product in combination with:Celecoxib (DB00482)
+DB00193,Used in combination to manage,Acute pain,Combination Product in combination with:Acetaminophen (DB00316)
+DB00193,Treatment of,Premature ejaculation,
+DB00193,Treatment of,Severe pain,
+DB00193,Treatment of,Severe pain,
+DB00195,Used in combination to treat,Elevated intraocular pressure,Combination Product in combination with:Pilocarpine (DB01085)
+DB00195,Used in combination to treat,Elevated intraocular pressure,Combination Product in combination with:Pilocarpine (DB01085)
+DB00195,Management of,Hypertension,
+DB00214,Management of,Edema,
+DB00214,Management of,Edema,
+DB00214,Management of,Edema,
+DB00214,Management of,Hypertension,
+DB13867,Used in combination for symptomatic treatment of,Asthma,Combination Product in combination with:Salmeterol (DB00938)
+DB13867,Used in combination to treat,Asthma,Combination Product in combination with:Formoterol (DB00983)
+DB13867,Treatment of,Asthma,
+DB13867,Treatment of,Bronchostenosis,
+DB13867,Symptomatic treatment of,Skin discomfort,
+DB00264,Management of,Angina pectoris,
+DB00264,Management of,Atrial fibrillation,
+DB00264,Management of,Hypertension,
+DB00264,Used in combination to manage,Hypertension,Combination Product in combination with:Hydrochlorothiazide (DB00999)
+DB00264,Prophylaxis of,Migraine,
+DB13943,Treatment of,Hypogonadotrophic hypogonadism,
+DB13943,Treatment of,Hypogonadotrophic hypogonadism,
+DB13943,Treatment of,Hypogonadotrophic hypogonadism,
+DB13943,Treatment of,Hypogonadotrophic hypogonadism,
+DB13943,Treatment of,Primary hypogonadism,
+DB13944,Treatment of,Congenital hypogonadotropic hypogonadism,
+DB13944,Treatment of,Hypergonadotropic hypogonadism,
+DB13944,Treatment of,Idiopathic hypogonadotropic hypogonadism,
+DB13946,For therapy,Testosterone deficiency,
+DB13946,For therapy,Testosterone deficiency,
+DB00295,Treatment of,Chronic intractable pain,
+DB00295,Used in combination to manage,Chronic pain,Combination Product in combination with:Naltrexone (DB00704)
+DB00295,Management of,Chronic pain,
+DB00295,Used in combination to manage,Severe pain,Combination Product in combination with:Naltrexone (DB00704)
+DB00295,Treatment of,Severe pain,
+DB00327,Management of,Chronic refractory cough,
+DB00327,Adjunct therapy in treatment of,Neuropathic pain,
+DB00327,Management of,Moderate to severe pain,
+DB00333,Management of,Opioid addiction,
+DB00333,Management of,Opioid addiction,
+DB00333,Management of,Severe pain,
+DB00335,Management of,Alcohol withdrawal,
+DB00335,Management of,Angina pectoris,
+DB00335,Management of,Atrial fibrillation,
+DB00335,Management of,Heart failure,
+DB00335,Management of,Hypertension,
+DB00368,Adjunct therapy in management of,Cardiac arrest,
+DB00368,Adjunct therapy in management of,Severe hypotension,
+DB00368,Management of,Shock,
+DB00368,Management of,"Acute, severe hypotension",
+DB00373,Management of,Elevated intraocular pressure,
+DB00373,Used in combination to manage,Elevated intraocular pressure,Combination Product in combination with:Dorzolamide (DB00869)
+DB00373,Used in combination to manage,Elevated intraocular pressure,Combination Product in combination with:Dorzolamide (DB00869)
+DB00373,Used in combination to manage,Elevated intraocular pressure,Combination Product in combination with:Brimonidine (DB00484)
+DB00373,Used in combination to manage,Elevated intraocular pressure,Combination Product in combination with:Brimonidine (DB00484)
+DB11682,Adjunct therapy in treatment of,Anemia,
+DB00384,Used in combination to treat,Edema,Combination Product in combination with:Hydrochlorothiazide (DB00999)
+DB00384,Treatment of,Edema,
+DB00384,Treatment of,Edema,
+DB00384,Treatment of,Edema,
+DB00384,Treatment of,Edema caused by secondary hyperaldosteronism,
+DB00421,Management of,Edema,
+DB00421,Management of,Edema,
+DB00421,Management of,Hypertension,
+DB00421,Diagnostic agent,Primary aldosteronism,
+DB00421,Management of,Primary hyperaldosteronism,
+DB00422,Treatment of,Attention deficit hyperactivity disorder (adhd),
+DB00422,Treatment of,Narcolepsy,
+DB00436,Used in combination to manage,High blood pressure (hypertension),Combination Product in combination with:Nadolol (DB01203)
+DB00443,Management of,Acquired hemolytic anemia,
+DB00443,Adjunct therapy in treatment of,Acute gouty arthritis,
+DB00443,Management of,Adrenocortical insufficiency,
+DB00443,Management of,Alopecia areata,
+DB00443,Adjunct therapy in treatment of,Ankylosing spondylitis,
+DB04846,Treatment of,Angina pectoris,
+DB04846,Treatment of,High blood pressure (hypertension),
+DB04847,Treatment of,Anemia,
+DB00460,Management of,Subfoveal choroidal neovascularization,
+DB00460,Management of,Subfoveal choroidal neovascularization,
+DB00460,Management of,Subfoveal choroidal neovascularization,
+DB04861,Used in combination to manage,Hypertension,Combination Product in combination with:Valsartan (DB00177)
+DB04861,Used in combination to manage,Hypertension,Combination Product in combination with:Valsartan (DB00177)
+DB04861,Management of,Hypertension,
+DB00475,Management of,Alcohol withdrawal syndrome,
+DB00475,Management of,Anxiety disorders,
+DB00475,Used in combination to manage,Depression,Combination Product in combination with:Amitriptyline (DB00321)
+DB00475,Used as adjunct in combination to manage,Irritable bowel syndrome (ibs),Combination Product in combination with:Clidinium (DB00771)
+DB00475,Used as adjunct in combination to manage,Peptic ulcer disease,Combination Product in combination with:Clidinium (DB00771)
+DB00481,Prevention of,Invasive breast cancer,
+DB00481,Prevention of,Invasive breast cancer,
+DB00481,Prevention of,Osteoporosis,
+DB00481,Treatment of,Osteoporosis,
+DB00481,Treatment of,Osteoporosis caused by corticosteroid,
+DB00489,Maintenance of,Sinus rhythm,
+DB00489,Treatment of,Life-threatening ventricular arrhythmias,
+DB00497,Management of,Severe acute pain,
+DB00497,Management of,Severe chronic pain,
+DB00497,Management of,Severe pain,
+DB00497,Used in combination to manage,Severe pain,"Mixture Product in combination with:Acetaminophen (DB00316),Ibuprofen (DB01050),Naproxen (DB00788)"
+DB00497,Management of,Moderate acute pain,
+DB04890,Treatment of,Itching,
+DB00502,Management of,Aggression,
+DB00502,Management of,Delirium,
+DB00502,Treatment of,Huntington's chorea,
+DB00502,Treatment of,Nausea and vomiting,
+DB00502,Management of,Obsessive compulsive disorder,
+DB11837,Treatment of,Cushings disease,
+DB00521,Treatment of,Increased intraocular pressure,
+DB00521,Treatment of,Increased intraocular pressure,
+DB00521,Used in combination to treat,Increased intraocular pressure,
+DB00521,Used in combination to treat,Increased intraocular pressure,
+DB00524,Management of,Edema,
+DB00524,Management of,Edema,
+DB00524,Used in combination to manage,High blood pressure (hypertension),
+DB00524,Management of,High blood pressure (hypertension),
+DB00524,Management of,Mild hypertension,
+DB00526,Used in combination to treat,Advanced colorectal cancer,"Regimen in combination with:Fluorouracil (DB00544),Leucovorin (DB00650)"
+DB00526,Used as adjunct in combination to treat,Stage iii colon cancer,"Regimen in combination with:Leucovorin (DB00650),Fluorouracil (DB00544)"
+DB04938,Treatment of,Moderate dyspareunia,
+DB04938,Treatment of,Moderate vaginal dryness,
+DB04938,Treatment of,Severe dyspareunia,
+DB04938,Treatment of,Severe vaginal dryness,
+DB14512,Management of,Asthma,
+DB14512,Prophylaxis of,Chronic rhinosinusitis phenotype with nasal polyps (crswnp),
+DB14512,Used in combination to treat,"Dermatitis, eczematous caused by superficial fungal skin infection",Combination Product in combination with:Terbinafine (DB00857)
+DB14512,Used in combination to treat,Moderate to severe plaque psoriasis,Combination Product in combination with:Salicylic acid (DB00936)
+DB14512,Treatment of,Pruritus,
+DB00539,Treatment of,Metastatic breast cancer,
+DB00539,Treatment of,Metastatic breast cancer,
+DB14538,Treatment of,Corticosteroid-responsive dermatosis,
+DB14539,Used in combination to treat,"Acute, inflammatory superficial cutaneous lesions caused by susceptible bacteria",Combination Product in combination with:Chloramphenicol (DB00446)
+DB14539,Management of,Adrenocortical insufficiency,
+DB14539,Used in combination for symptomatic treatment of,Anal fissures,Combination Product in combination with:Lidocaine (DB00281)
+DB14539,Used in combination to treat,Anal fissures,Combination Product in combination with:Polidocanol (DB06811)
+DB14539,Used in combination for symptomatic treatment of,Anal inflammation,Combination Product in combination with:Lidocaine (DB00281)
+DB14540,Treatment of,Atopic dermatitis,
+DB14540,Treatment of,"Corticosteroid responsive, inflammatory dermatosis",
+DB14540,Treatment of,"Corticosteroid responsive, pruritic dermatosis",
+DB14540,Treatment of,"Pruritic, corticosteroid responsive, inflammatory dermatosis",
+DB00564,Treatment of,Acute mania,
+DB00564,Treatment of,Alcohol withdrawal syndrome(aws),
+DB00564,Treatment of,Complex partial seizure disorder,
+DB00564,Treatment of,Complex partial seizure disorder,
+DB00564,Treatment of,Generalized tonic-clonic seizures,
+DB14542,Management of,Anaphylaxis,
+DB14542,Management of,Angioneurotic edema,
+DB14542,Treatment of,Congenital adrenal hyperplasia (cah),
+DB14542,Treatment of,Conjunctivitis allergic,
+DB14542,Management of,Drug hypersensitivity reaction,
+DB14543,Management of,Corticosteroid-responsive dermatoses,
+DB14544,Management of,Corticosteroid-responsive dermatoses,
+DB00571,Management of,Akathisia caused by antipsychotic use,
+DB00571,Management of,Angina pectoris,
+DB00571,Management of,Angina pectoris,
+DB00571,Management of,Atrial fibrillation,
+DB00571,Prevention of,Cardiovascular mortality,
+DB00574,Management of,Seizures,
+DB00574,Management of,Seizures,
+DB11921,Management of,Duchenne muscular dystrophy,
+DB00588,Adjunct therapy in treatment of,Acute bacterial rhinosinusitis,
+DB00588,Prophylaxis of,Allergic rhinitis,
+DB00588,Treatment of,Allergic rhinitis,
+DB00588,Used in combination to treat,Allergy to mold,Combination Product in combination with:Azelastine (DB00972)
+DB00588,Used in combination to treat,Allergy; dander,Combination Product in combination with:Azelastine (DB00972)
+DB05039,Used in combination to manage,Asthma,Combination Product in combination with:Mometasone furoate (DB14512)
+DB05039,Used in combination to treat,Asthma,"Combination Product in combination with:Glycopyrronium (DB00986),Mometasone furoate (DB14512)"
+DB05039,Used in combination to manage,Chronic obstructive pulmonary disease,Combination Product in combination with:Glycopyrronium (DB00986)
+DB05039,Management of,Chronic obstructive pulmonary disease,
+DB00591,Used in combination to treat,Acute otitis media,Combination Product in combination with:Ciprofloxacin (DB00537)
+DB00591,Used in combination to treat,Allergy skin,Combination Product in combination with:Gentamicin (DB00798)
+DB00591,Used in combination to treat,Anal fissures,Combination Product in combination with:Ketocaine (DB16020)
+DB00591,Treatment of,Atopic dermatitis,
+DB00591,Used in combination to treat,Chronic disease of skin,Combination Product in combination with:Gentamicin (DB00798)
+DB00594,Management of,Ascites,
+DB00594,Prevention of,Calcium nephrolithiasis,
+DB00594,Adjunct therapy in management of,Congestive heart failure,
+DB00594,Used in combination to manage,High blood pressure (hypertension),Combination Product in combination with:Bendroflumethiazide (DB00436)
+DB00594,Used in combination to treat,High blood pressure (hypertension),"Combination Product in combination with:Timolol (DB00373),Hydrochlorothiazide (DB00999)"
+DB00598,Management of,Hypertension,
+DB00598,Management of,Hypertension,
+DB00598,Treatment of,Hypertensive emergency,
+DB00598,Treatment of,Hypertensive crisis,
+DB00598,Symptomatic treatment of,Pheochromocytoma,
+DB14631,Treatment of,Allergic conditions,
+DB14631,Treatment of,Dermatologic disease,
+DB14631,Treatment of,Edema,
+DB14631,Treatment of,Endocrine disorders,
+DB14631,Treatment of,Eye inflammation,
+DB00612,Management of,Atrial fibrillation,
+DB00612,Prophylaxis of,Cardiac event,
+DB00612,Management of,Heart failure,
+DB00612,Used in combination to manage,High blood pressure (hypertension),
+DB00612,Management of,High blood pressure (hypertension),
+DB00620,Used in combination to treat,Acne,Combination Product in combination with:Kanamycin (DB01172)
+DB00620,Treatment of,Acne vulgaris,
+DB00620,Adjunct therapy in management of,Acute gouty arthritis,
+DB00620,Symptomatic treatment of,Acute gouty arthritis,
+DB00620,Used in combination to treat,Allergic contact dermatitis,Combination Product in combination with:Salicylic acid (DB00936)
+DB00621,Management of,Pain,
+DB00621,Management of,Protein catabolism,
+DB00624,Used in combination to treat,Delayed puberty,Regimen in combination with:Testosterone enanthate (DB13944)
+DB00624,Treatment of,Hypogonadotrophic hypogonadism,
+DB00624,Management of,Hypogonadotropic hypogonadism,
+DB00624,Management of,Hypogonadotropic hypogonadism,
+DB00624,Management of,Idiopathic hypogonadotropic hypogonadism,
+DB00635,Treatment of,Acne vulgaris,
+DB00635,Treatment of,Acquired hemolytic anemia,
+DB00635,Treatment of,Acute exacerbation of chronic obstructive pulmonary disease,
+DB00635,Management of,Acute gouty arthritis,
+DB00635,Treatment of,Acute leukemia,
+DB14669,Treatment of,Acute gouty arthritis,
+DB14669,Treatment of,Allergic conditions,
+DB14669,Treatment of,Alopecia areata (aa),
+DB14669,Treatment of,Dermatological disease,
+DB14669,Treatment of,Discoid lupus erythematosus (dle),
+DB00652,Management of,Severe pain,
+DB00652,Used in combination to manage,Severe pain,Combination Product in combination with:Naloxone (DB01183)
+DB00652,Used in combination to manage,Mild pain,Combination Product in combination with:Acetaminophen (DB00316)
+DB00652,Management of,Moderate pain,
+DB00652,Used in combination to manage,Moderate pain,Combination Product in combination with:Acetaminophen (DB00316)
+DB00666,Treatment of,Central precocious puberty,
+DB00666,Symptomatic treatment of,Endometriosis,
+DB00668,Management of,Anaphylaxis,
+DB00668,Treatment of,Anaphylaxis,
+DB00668,Treatment of,Angioneurotic edema,
+DB00668,Induction of,Bleeding,
+DB00668,Treatment of,Bronchospasm,
+DB00675,Prevention of,Breast cancer,
+DB00675,Adjunct therapy in prevention of,Contralateral breast cancer,
+DB00675,Used in combination to treat,Desmoid tumour,Regimen in combination with:Sulindac (DB00605)
+DB00675,Adjunct therapy in treatment of,Early stage estrogen receptor (er) positive breast cancer,
+DB00675,Treatment of,Gynecomastia,
+DB00687,Used in combination to treat,Otitis externa,"Combination Product in combination with:Polymyxin B (DB00781),Lidocaine (DB00281),Neomycin (DB00994),Furaltadone (DB16567)"
+DB00687,Used in combination to treat,Otitis media (om),"Combination Product in combination with:Polymyxin B (DB00781),Lidocaine (DB00281),Furaltadone (DB16567),Neomycin (DB00994)"
+DB00687,Management of,Primary adrenocortical insufficiency,
+DB00687,Management of,Secondary adrenocortical insufficiency,
+DB00687,Treatment of,Salt-losing androgenital syndrome,
+DB00695,Adjunct therapy in treatment of,Acute pulmonary edema,
+DB00695,Used in combination to treat,Ascites,Combination Product in combination with:Triamterene (DB00384)
+DB00695,Used in combination to treat,Ascites,Combination Product in combination with:Triamterene (DB00384)
+DB00695,Used in combination to treat,Body fluid retention,Combination Product in combination with:Triamterene (DB00384)
+DB00695,Treatment of,Edema,
+DB14754,Treatment of,Daytime sleepiness,
+DB14754,Treatment of,Daytime sleepiness,
+DB00714,Treatment of,Hypomobility,
+DB00741,Treatment of,Acquired hemolytic anemia,
+DB00741,Management of,Acute gouty arthritis,
+DB00741,Symptomatic treatment of,Acute leukemia,
+DB00741,Used in combination to treat,Acute otitis externa,Combination Product in combination with:Ciprofloxacin (DB00537)
+DB00741,Treatment of,Adrenal insufficiency,
+DB00742,Treatment of,Acute renal failure,
+DB00742,Treatment of,Cerebral edema,
+DB00742,Adjunct therapy in maintenance of,Cystic fibrosis (cf),
+DB00742,Management of,Increased intraocular pressure,
+DB00745,Symptomatic treatment of,Adhd,
+DB00745,Management of,Fatigue,
+DB00745,Management of,Fatigue,
+DB00745,Adjunct therapy in treatment of,Major depressive disorder,
+DB00745,Symptomatic treatment of,Narcolepsy,
+DB00764,Management of,Allergic rhinitis (ar),
+DB00764,Management of,Asthma,
+DB00764,Management of,Bacterial sinusitis,
+DB00764,Treatment of,Pruritus,
+DB00764,Management of,Sinusitis,
+DB00808,Used in combination to manage,High blood pressure (hypertension),
+DB00808,Management of,High blood pressure (hypertension),
+DB00808,Management of,Nephrolithiasis recurrent,
+DB00808,Management of,Sodium and fluid retention,
+DB00813,Management of,Breakthrough cancer pain,
+DB00813,Treatment of,Severe chronic pain,
+DB00819,Treatment of,Acute mountain sickness,
+DB00819,Adjunct therapy in treatment of,Edema,
+DB00819,Treatment of,Familial periodic paralysis,
+DB00819,Treatment of,Metabolic alkalosis,
+DB00819,Adjunct therapy in treatment of,Open angle glaucoma,
+DB00852,Used in combination for symptomatic treatment of,Allergic rhinitis (ar),Combination Product in combination with:Loratadine (DB00455)
+DB00852,Used in combination for symptomatic treatment of,Allergic rhinitis (ar),"Combination Product in combination with:Triprolidine (DB00427),Guaifenesin (DB00874)"
+DB00852,Used in combination to treat,Allergic rhinitis (ar),Combination Product in combination with:Chlorpheniramine (DB01114)
+DB00852,Used in combination to treat,Allergies,Combination Product in combination with:Loratadine (DB00455)
+DB00852,Used in combination for symptomatic treatment of,Common cold,"Combination Product in combination with:Ibuprofen (DB01050),Ascorbic acid (DB00126)"
+DB03085,Treatment of,Acne,
+DB03085,Treatment of,Skin pigmentation,
+DB00860,Management of,Acne rosacea,
+DB00860,Treatment of,Acute gouty arthritis,
+DB00860,Management of,Acute leukemia,
+DB00860,Management of,Allergic bronchopulmonary aspergillosis,
+DB00860,Management of,Allergic conjunctivitis,
+DB12255,Treatment of,Anemia associated with chronic kidney disease (ckd),
+DB12255,Treatment of,Anemia associated with chronic kidney disease (ckd),
+DB00871,Used in combination to treat,Asthma,Combination Product in combination with:Guaifenesin (DB00874)
+DB00871,Treatment of,Bronchospasm,
+DB00871,Prevention of,Bronchospasm,
+DB00871,Used in combination for symptomatic treatment of,Bronchospasm,Combination Product in combination with:Guaifenesin (DB00874)
+DB00871,Used in combination to treat,Bronchospasm,Combination Product in combination with:Guaifenesin (DB00874)
+DB00872,Treatment of,Euvolemic hyponatremia,
+DB00872,Treatment of,Hypervolemic hyponatremia,
+DB00880,Adjunct therapy in treatment of,Edema,
+DB00880,Management of,Hypertension,
+DB00882,Treatment of,Ovulatory dysfunction,
+DB00887,Management of,Edema,
+DB00887,Management of,Edema,
+DB00887,Management of,Edema,
+DB00893,Treatment of,Iron deficiency,
+DB00903,Management of,Ascites,
+DB00903,Management of,Congenital heart disease,
+DB00903,Treatment of,Edema,
+DB00903,Treatment of,Edema,
+DB00903,Treatment of,Edema,
+DB00921,Used as adjunct in combination to treat,Opioid dependence,Combination Product in combination with:Naloxone (DB01183)
+DB00921,Management of,Severe pain,
+DB00921,Adjunct therapy in treatment of,Moderate opioid dependence,
+DB00921,Management of,Moderate pain,
+DB00921,Adjunct therapy in treatment of,Severe opioid dependence,
+DB00938,Used in combination to treat,Asthma,Combination Product in combination with:Fluticasone propionate (DB00588)
+DB00938,Management of,Asthma,
+DB00938,Management of,Chronic obstructive pulmonary disease,
+DB00938,Used in combination to manage,Chronic obstructive pulmonary disease,Combination Product in combination with:Fluticasone propionate (DB00588)
+DB00938,Prophylaxis of,Exercise-induced bronchospasm,
+DB15133,Treatment of,Metastatic non-small cell lung cancer,
+DB00947,Treatment of,Advanced breast cancer,
+DB00947,Treatment of,Advanced breast cancer,
+DB00947,Used in combination to treat,Advanced or metastatic breast cancer,Regimen in combination with:Alpelisib (DB12015)
+DB00947,Used in combination to treat,Advanced or metastatic breast cancer,Regimen in combination with:Alpelisib (DB12015)
+DB00947,Used in combination to treat,Advanced or metastatic breast cancer,Regimen in combination with:Abemaciclib (DB12001)
+DB00959,Adjunct therapy in management of,Acute gouty arthritis,
+DB00959,Management of,Acute leukemia,
+DB00959,Used in combination to treat,Acute tendonitis,Combination Product in combination with:Lidocaine (DB00281)
+DB00959,Treatment of,Allergic conjunctivitis (ac),
+DB00959,Treatment of,Allergic corneal marginal ulcers,
+DB00960,Prophylaxis of,Angina pectoris,
+DB00960,Used in combination to treat,Atrial fibrillation,Regimen in combination with:Digoxin (DB00390)
+DB00960,Adjunct therapy in treatment of,Depression,
+DB00960,Used in combination to manage,Hypertension,
+DB00960,Management of,Hypertension,
+DB00983,Used in combination to manage,Asthma,Combination Product in combination with:Budesonide (DB01222)
+DB00983,Used in combination to manage,Asthma,Combination Product in combination with:Mometasone furoate (DB14512)
+DB00983,Management of,Asthma,
+DB00983,Used in combination to manage,Bronchial asthma,Combination Product in combination with:Budesonide (DB01222)
+DB00983,Management of,Bronchoconstriction,
+DB00990,Adjunct therapy in treatment of,Early breast cancer,
+DB00990,Treatment of,"Refractory, advanced breast cancer",
+DB00999,Prophylaxis of,Calcium nephrolithiasis,
+DB00999,Used as adjunct in combination to manage,Cirrhosis of liver,Combination Product in combination with:Spironolactone (DB00421)
+DB00999,Used in combination to manage,Congestive heart failure,"Combination Product in combination with:Spironolactone (DB00421),Digitoxin (DB01396)"
+DB00999,Management of,Diabetes insipidus,
+DB00999,Used in combination to manage,Edema,Combination Product in combination with:Spironolactone (DB00421)
+DB01001,Used in combination to treat,Asthma,Combination Product in combination with:Theophylline (DB00277)
+DB01001,Used in combination for symptomatic treatment of,Asthma,Combination Product in combination with:Guaifenesin (DB00874)
+DB01001,Used in combination to treat,Asthmatic bronchitis,Combination Product in combination with:Flunisolide (DB00180)
+DB01001,Used in combination to treat,Bronchial asthma,Combination Product in combination with:Flunisolide (DB00180)
+DB01001,Used in combination to prevent,Bronchoconstriction,Combination Product in combination with:Budesonide (DB01222)
+DB01006,Treatment of,Advanced breast cancer,
+DB01006,Treatment of,Anovulation,
+DB01006,Adjunct therapy in treatment of,Early breast cancer,
+DB01006,Treatment of,Early breast cancer,
+DB01006,Treatment of,Epithelial ovarian cancer,
+DB01032,Used in combination to manage,Bacterial infection,Regimen in combination with:Ampicillin (DB00415)
+DB01032,Used in combination to manage,Chronic gout,Regimen in combination with:Ampicillin (DB00415)
+DB01032,Used in combination to manage,Chronic gouty arthritis,Combination Product in combination with:Colchicine (DB01394)
+DB01032,Treatment of,Hyperuricemia,
+DB01032,Treatment of,Hyperuricemia,
+DB01037,Management of,Adhd,
+DB01037,Treatment of,Major depressive disorder,
+DB01037,Adjunct therapy in management of,Parkinson's disease,
+DB01105,Used in combination to manage,Bmi >30 kg/m2,
+DB01136,Management of,Atrial fibrillation,
+DB01136,Management of,Chronic stable angina pectoris,
+DB01136,Management of,Hypertension,
+DB01136,Management of,Lvef ≤40% left ventricular dysfunction,
+DB01136,Management of,Mild heart failure,
+DB01185,Management of,Delayed puberty,
+DB01185,Treatment of,Gonadotropin deficiency,
+DB01185,Management of,Hypogonadotropic hypogonadism,
+DB01185,Treatment of,Lhrh deficiency,
+DB01185,Management of,Primary hypogonadism,
+DB01192,Management of,Anxiety,
+DB01192,Management of,Severe pain,
+DB01192,Management of,Moderate pain,
+DB01193,Management of,Chronic stable angina pectoris,
+DB01193,Management of,Hypertension,
+DB01193,Management of,Hypertension,
+DB01193,Management of,Ventricular arrhythmia,
+DB15566,Used in combination to treat,Eye inflammation,Combination Product in combination with:Sulfacetamide (DB00634)
+DB15566,Used in combination to treat,Eye inflammation,Combination Product in combination with:Sulfacetamide (DB00634)
+DB15566,Treatment of,Inflammation,
+DB15566,Management of,Inflammatory conditions,
+DB15566,Used in combination to treat,"Ocular infections, irritations and inflammations",Combination Product in combination with:Gatifloxacin (DB01044)
+DB01203,Management of,Angina pectoris,
+DB01203,Management of,Atrial fibrillation,
+DB01203,Used in combination to manage,Hypertension,Combination Product in combination with:Bendroflumethiazide (DB00436)
+DB01203,Management of,Hypertension,
+DB01203,Prophylaxis of,Migraine,
+DB06212,Management of,Autosomal dominant polycystic kidney disease,
+DB06212,Treatment of,Symptomatic euvolemic hyponatremia,
+DB06212,Treatment of,Symptomatic hypervolemic hyponatremia,
+DB01210,Management of,Ocular hypertension,
+DB01210,Management of,Open-angle glaucoma,
+DB01214,Management of,Ocular hypertension,
+DB01214,Management of,Open angle glaucoma,
+DB01217,Treatment of,Advanced breast cancer,
+DB01217,Adjunct therapy in treatment of,Early breast cancer,
+DB01217,Treatment of,Locally advanced breast cancer,
+DB01217,Treatment of,Locally advanced breast cancer,
+DB01217,Treatment of,Metastatic breast cancer,
+DB01222,Management of,Allergic rhinitis,
+DB01222,Management of,Allergies,
+DB01222,Used in combination to manage,Asthma,Combination Product in combination with:Formoterol (DB00983)
+DB01222,Management of,Asthma,
+DB01222,Used in combination to manage,Asthma,Combination Product in combination with:Formoterol (DB00983)
+DB01234,Management of,Acne rosacea,
+DB01234,Management of,Acquired hemolytic anemia,
+DB01234,Management of,Acute gouty arthritis,
+DB01234,Management of,Acute leukemia,
+DB01234,Used in combination to treat,Acute otitis externa,Combination Product in combination with:Ciprofloxacin (DB00537)
+DB01240,Diagnostic agent,Pulmonary arterial hypertension,
+DB01240,Treatment of,Pulmonary arterial hypertension,
+DB01255,Management of,Adhd,
+DB01255,Management of,Moderate binge eating disorder (bed),
+DB01255,Management of,Severe binge eating disorder (bed),
+DB01274,Used in combination to manage,Asthma,Combination Product in combination with:Budesonide (DB01222)
+DB01274,Treatment of,Bronchoconstriction,
+DB01274,Used in combination to manage,Chronic obstructive pulmonary disease (copd),Combination Product in combination with:Budesonide (DB01222)
+DB01284,Adjunct therapy in treatment of,Acute gout,
+DB01284,Management of,Acute rheumatic fever,
+DB01284,Diagnostic agent,Adrenal insufficiency,
+DB01284,Management of,Bell's palsy,
+DB01284,Management of,Choroiditis,
+DB01288,Prophylaxis of,"Asthma, exercise-induced",
+DB01288,Symptomatic treatment of,Asthmatic attack,
+DB01288,Adjunct therapy in treatment of,Bronchial asthma,
+DB01288,Used in combination to manage,Severe copd exacerbation,Combination Product in combination with:Ipratropium (DB00332)
+DB06401,Used in combination to prevent,Postmenopausal osteoporosis,Combination Product in combination with:Conjugated estrogens (DB00286)
+DB06401,Used in combination to treat,Moderate vasomotor symptoms,Combination Product in combination with:Conjugated estrogens (DB00286)
+DB06401,Used in combination to treat,Severe vasomotor symptoms,Combination Product in combination with:Conjugated estrogens (DB00286)
+DB06412,Management of,Acquired aplastic anemia,
+DB06412,Management of,Congenital aplastic anemia,
+DB06412,Management of,Hypoplastic anemia,
+DB06412,Management of,Myelofibrosis,
+DB06413,Management of,Excessive sleepiness,
+DB06413,Management of,Narcolepsy,
+DB06413,Management of,Shift work disorder,
+DB01364,Treatment of,Allergic disorder,
+DB01364,Treatment of,Bronchial asthma,
+DB01364,Used in combination for symptomatic treatment of,Common cold,"Combination Product in combination with:Dextromethorphan (DB00514),Promethazine (DB01069)"
+DB01364,Used in combination for symptomatic treatment of,Coughing,"Combination Product in combination with:Promethazine (DB01069),Dextromethorphan (DB00514)"
+DB01364,Used in combination for symptomatic treatment of,Coughing,"Combination Product in combination with:Dextromethorphan (DB00514),Diphenhydramine (DB01075)"
+DB01366,Treatment of,Bronchial asthma,
+DB01366,Treatment of,Bronchospasm,
+DB01366,Treatment of,Chronic bronchitis,
+DB01366,Treatment of,Emphysema,
+DB01380,Management of,Acne rosacea,
+DB01380,Management of,Acquired hemolytic anemia,
+DB01380,Management of,Acute gouty arthritis,
+DB01380,Management of,Acute leukemia,
+DB01380,Diagnostic agent,Adrenocortical hyperfunction,
+DB01406,Treatment of,Endometriosis,
+DB01406,Symptomatic treatment of,Fibrocystic breast disease,
+DB01406,Management of,Hereditary angioedema,
+DB01406,Management of,Refractory immune thrombocytopenia,
+DB01407,Used in combination to treat,Bronchitis,Combination Product in combination with:Ambroxol (DB06742)
+DB01407,Used in combination to treat,Chronic lung diseases,Combination Product in combination with:Ambroxol (DB06742)
+DB01407,Used in combination to treat,Chronic obstructive pulmonary disease (copd),Combination Product in combination with:Ambroxol (DB06742)
+DB01410,Used in combination to manage,Asthma,Combination Product in combination with:Carmoterol (DB15784)
+DB01410,Used in combination to manage,Asthma,Combination Product in combination with:Formoterol (DB00983)
+DB01410,Management of,Asthma,
+DB01410,Used in combination to prevent,Bronchoconstriction,Combination Product in combination with:Tiotropium (DB01409)
+DB01410,Used in combination to manage,Chronic obstructive pulmonary disease (copd),Combination Product in combination with:Carmoterol (DB15784)
+DB01420,Treatment of,Breast cancer,
+DB01420,Symptomatic treatment of,Breast cancer,
+DB01420,Treatment of,"Puberty, delayed",
+DB01420,Treatment of,"Puberty, delayed",
+DB01420,Treatment of,Testosterone deficiency,
+DB01466,Used in combination for symptomatic treatment of,Coughing,Combination Product in combination with:Codeine (DB00318)
+DB01466,Used in combination for symptomatic treatment of,Coughing,Combination Product in combination with:Codeine (DB00318)
+DB08804,Adjunct therapy in management of,Osteoporosis (senile),
+DB08804,Adjunct therapy in management of,Postmenopausal osteoporosis,
+DB08804,Management of,Anemia of renal insufficiency,
+DB01524,Used in combination for symptomatic treatment of,Hormone deficiency,"Combination Product in combination with:Thyroid, porcine (DB09100),Estrone (DB00655),Androstenedione (DB01536),Testosterone (DB00624),Pregnenolone (DB02789)"
+DB01524,Used in combination for symptomatic treatment of,Ovarian function insufficiency,"Combination Product in combination with:Testosterone (DB00624),Pregnenolone (DB02789),Estrone (DB00655),Thyroid, porcine (DB09100),Androstenedione (DB01536)"
+DB01524,Used in combination for symptomatic treatment of,Ovarian atrophy,"Combination Product in combination with:Thyroid, porcine (DB09100),Estrone (DB00655),Androstenedione (DB01536),Pregnenolone (DB02789),Testosterone (DB00624)"
+DB01524,Used in combination for symptomatic treatment of,Hypoestrogenism,"Combination Product in combination with:Thyroid, porcine (DB09100),Testosterone (DB00624),Androstenedione (DB01536),Estrone (DB00655),Pregnenolone (DB02789)"
+DB06701,Management of,Adhd,
+DB01536,Used in combination to manage,Hormone deficiency,"Combination Product in combination with:Estrone (DB00655),Pregnenolone (DB02789),Testosterone (DB00624),Thyroid, porcine (DB09100),Androstenedione (DB01536),Androstenediol (DB01524)"
+DB01536,Used in combination to manage,Ovarian function insufficiency,"Combination Product in combination with:Testosterone (DB00624),Estrone (DB00655),Thyroid, porcine (DB09100),Androstenediol (DB01524),Androstenedione (DB01536),Pregnenolone (DB02789)"
+DB01536,Used in combination to manage,Ovarian atrophy,"Combination Product in combination with:Pregnenolone (DB02789),Estrone (DB00655),Thyroid, porcine (DB09100),Androstenediol (DB01524),Testosterone (DB00624),Androstenedione (DB01536)"
+DB01536,Used in combination to manage,Hypoestrogenism,"Combination Product in combination with:Androstenedione (DB01536),Testosterone (DB00624),Androstenediol (DB01524),Thyroid, porcine (DB09100),Estrone (DB00655),Pregnenolone (DB02789)"
+DB06710,Management of,Delayed puberty,
+DB06710,Management of,Hypogonadotropic hypogonadism,
+DB06710,Treatment of,Metastatic breast cancer,
+DB06710,Treatment of,Primary hypogonadism,
+DB06710,Used in combination to treat,Testosterone deficiency,Combination Product in combination with:alpha-Tocopherol acetate (DB14003)
+DB06714,Symptomatic treatment of,Nasal congestion,
+DB06718,Prevention of,Hereditary angioedema,
+DB06719,Symptomatic treatment of,D prostate cancer,
+DB06719,Treatment of,Endometriosis,
+DB08906,Management of,Asthma,
+DB08906,Used in combination to manage,Asthma,Combination Product in combination with:Vilanterol (DB09082)
+DB08906,Used in combination to manage,Asthma,"Combination Product in combination with:Vilanterol (DB09082),Umeclidinium (DB09076)"
+DB08906,Used in combination to manage,Copd,"Combination Product in combination with:Vilanterol (DB09082),Umeclidinium (DB09076)"
+DB08906,Used in combination to manage,Copd,Combination Product in combination with:Vilanterol (DB09082)
+DB01577,Management of,Attention deficit hyperactivity disorder,
+DB01577,Management of,Narcolepsy,
+DB01577,Management of,Refractory exogenous obesity,
+DB01579,Management of,Exogenous obesity,
+DB06788,Symptomatic treatment of,Advanced prostate cancer,
+DB06788,Management of,Central precocious puberty,
+DB13074,Diagnostic agent,Adult growth hormone deficiency,
+DB08971,Treatment of,Skin inflammation,
+DB06825,Symptomatic treatment of,Advanced prostate cancer,
+DB08985,Treatment of,Orthostatic hypotension,
+DB13139,Treatment of,Bronchospasm,
+DB13139,Treatment of,Bronchospasm,
+DB13139,Prophylaxis of,Bronchospasm,
+DB01708,Treatment of,Moderate dyspareunia,
+DB01708,Treatment of,Severe dyspareunia,
+DB09069,Treatment of,Angina pectoris,
+DB09069,Treatment of,Angina pectoris,
+DB09069,Treatment of,Angina pectoris,
+DB09069,Used as adjunct in combination for symptomatic treatment of,Chronic stable angina pectoris,
+DB09069,Treatment of,Tinnitus,
+DB09070,Treatment of,Vasomotor symptoms associated with menopause,
+DB09080,Used in combination to manage,Chronic obstructive pulmonary disease,Combination Product in combination with:Tiotropium (DB01409)
+DB09080,Management of,Chronic obstructive pulmonary disease,
+DB09082,Used in combination to manage,Asthma,Combination Product in combination with:Fluticasone furoate (DB08906)
+DB09082,Used in combination to manage,Asthma,"Combination Product in combination with:Fluticasone furoate (DB08906),Umeclidinium (DB09076)"
+DB09082,Used in combination to manage,Chronic obstructive pulmonary disease,Combination Product in combination with:Umeclidinium (DB09076)
+DB09082,Used in combination to manage,Chronic obstructive pulmonary disease,Combination Product in combination with:Fluticasone furoate (DB08906)
+DB09082,Used in combination to manage,Chronic obstructive pulmonary disease (copd),"Combination Product in combination with:Umeclidinium (DB09076),Fluticasone furoate (DB08906)"
+DB09095,Used in combination to treat,Gingivitis,Combination Product in combination with:Josamycin (DB01321)
+DB09095,Used in combination to treat,Infectious periodontal diseases,Combination Product in combination with:Josamycin (DB01321)
+DB09095,Used in combination to treat,Periodontitis,Combination Product in combination with:Josamycin (DB01321)
+DB09095,Used in combination for symptomatic treatment of,Skin inflammation,Combination Product in combination with:Isoconazole (DB08943)
+DB09095,Used in combination to treat,Stomatitis,Combination Product in combination with:Josamycin (DB01321)
+DB16629,Used in combination to treat,Attention deficit hyperactivity disorder (adhd),Combination Product in combination with:Dexmethylphenidate (DB06701)
+DB01839,Prophylaxis of,Dry eyes,
+DB01839,Symptomatic treatment of,Dry eyes,
+DB01839,Used in combination for symptomatic treatment of,Dry eyes,"Combination Product in combination with:Hyaluronic acid (DB08818),Polyethylene glycol 400 (DB11077)"
+DB01839,Used in combination for symptomatic treatment of,Dry eyes,Combination Product in combination with:Polyethylene glycol 400 (DB11077)
+DB01839,Used in combination to manage,Dry eyes,Combination Product in combination with:Glycerin (DB09462)
+DB16826,Treatment of,Locally advanced or metastatic non-small cell lung cancer,
+DB09255,Used in combination to treat,Blood circulation disorder,Combination Product in combination with:D-glucose (DB01914)
+DB09255,Used in combination to treat,Capillary disorder,Combination Product in combination with:D-glucose (DB01914)
+DB09255,Used in combination to treat,Dry eyes,"Combination Product in combination with:Glycine (DB00145),Hypromellose (DB11075)"
+DB09255,Symptomatic treatment of,Dry eyes,
+DB09255,Symptomatic treatment of,Eye irritation,
+DB09287,Used in combination to treat,Chronic constipation,"Combination Product in combination with:Sodium bicarbonate (DB01390),Potassium chloride (DB00761),Sodium chloride (DB09153)"
+DB09287,Treatment of,Constipation,
+DB09287,Used in combination for symptomatic treatment of,Constipation,"Combination Product in combination with:Citric acid (DB04272),Potassium chloride (DB00761),Sodium chloride (DB09153),Sodium citrate (DB09154)"
+DB09287,Used in combination for symptomatic treatment of,Dry eye syndrome (des),Combination Product in combination with:Propylene glycol (DB01839)
+DB09287,Used in combination for symptomatic treatment of,Dry eyes,Combination Product in combination with:Propylene glycol (DB01839)
+DB09571,Symptomatic treatment of,Nasal congestion,
+DB11077,Treatment of,Constipation,
+DB11077,Symptomatic treatment of,Dry eyes,
+DB11124,Symptomatic treatment of,Asthma,
+DB17386,Diagnostic agent,Ventilation of the lung,
+DB11278,Symptomatic treatment of,Fever,
+DB11278,Symptomatic treatment of,Generalised muscle aches,
+DB11278,Symptomatic treatment of,Headache,
+DB11278,Symptomatic treatment of,Irritative cough,
+DB11278,Symptomatic treatment of,Nasal congestion,
